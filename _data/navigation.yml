@@ -1,0 +1,9 @@
+- name: Research
+  link: /research/
+- name: People
+  link: /people/
+  dropdown:
+    - name: Page 2
+      link: /page-2/
+- name: Resources
+  link: /temp/

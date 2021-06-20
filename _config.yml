@@ -1,1 +1,8 @@
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
+# theme: minimal-mistakes-jekyll
+theme: bulma-clean-theme
+title: Wu's Lab
+description: Computational lab for agronomy and ....
+layout: page
+fixed_navbar: top
+hero_height: is-medium
