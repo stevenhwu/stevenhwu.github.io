@@ -1,9 +1,11 @@
 # theme: jekyll-theme-slate
 # theme: minimal-mistakes-jekyll
-# remote_theme:: bulma-clean-theme
-remote_theme:: chrisrhymes/bulma-clean-theme
+#theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 title: Wu's Lab
 description: Computational lab for agronomy and ....
 layout: page
 fixed_navbar: top
 hero_height: is-medium
+plugins:
+- github-pages
