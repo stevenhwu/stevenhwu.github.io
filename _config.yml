@@ -2,10 +2,13 @@
 # theme: minimal-mistakes-jekyll
 #theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
-title: Wu's Lab
-description: Computational lab for agronomy and ....
+title: ""
+# description: Computational lab for agronomy and ....
+email: stevenhwu@gmail.com
 layout: page
 fixed_navbar: top
-hero_height: is-medium
+hide_footer: true
+# hero_height: is-small
 plugins:
 - github-pages
+# footer_menu: footer_menu

@@ -1,10 +1,8 @@
 ---
 title: People
-subtitle: lab member
-layout: page
-show_sidebar: false
-hide_hero: true
+hide_footer: true
+hero_height: is-small
 ---
 
 ## Steven Wu
-PI:
+Steven Wu is an Assistant Professor at National Taiwan University.
