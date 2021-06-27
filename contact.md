@@ -4,7 +4,7 @@ hide_footer: true
 hero_height: is-small
 ---
 
-If you are interested in join my lab, please contact me with the following information.
+If you are interested in join my lab, please contact me with the following information. We are looking for people with diverse background and skillset, include agronomist, biologists, statisticians, and computer scientists.
 
 ### Prospective undergraduates
 - Your CV/resume

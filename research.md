@@ -6,6 +6,10 @@ hero_height: is-small
 
 
 My primary research interests are:
-<!-- - Microbial i
+
+<!--
+
+- Microbial i
 -
-- C -->
+- C
+-->
