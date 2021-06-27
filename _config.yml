@@ -7,6 +7,9 @@ description: ""
 author: Steven Wu
 email: stevenhwu@gmail.com
 layout: page
+baseurl: "/stevenhwu.github.io"
+url: "https://stevenhwu.github.io/"
+permalink: pretty
 fixed_navbar: top
 hide_footer: true
 # hero_height: is-small
