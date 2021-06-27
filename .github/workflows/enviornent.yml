@@ -11,8 +11,6 @@ jobs:
 
     runs-on: ubuntu-latest
     environment: development
-      name: development
-      url: https://${{ env.URL }}
     steps:
     - uses: actions/checkout@v2
     - name: Build the site in the jekyll/builder container
