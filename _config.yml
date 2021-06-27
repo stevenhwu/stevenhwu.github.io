@@ -7,7 +7,7 @@ description: ""
 author: Steven Wu
 email: stevenhwu@gmail.com
 layout: page
-# baseurl: "/stevenhwu.github.io"
+baseurl: ""
 url: "https://stevenhwu.github.io/"
 permalink: pretty
 fixed_navbar: top
