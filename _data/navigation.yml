@@ -1,0 +1,13 @@
+- name: Research
+  link: /research/
+- name: People
+  link: /people/
+- name: Teaching
+  link: /teaching/
+- name: Software
+  link: /software/
+- name: Contact
+  link: /contact/
+  # dropdown:
+  #   - name: Bioinformatics
+  #     link: /teaching-bio/
