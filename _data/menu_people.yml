@@ -1,0 +1,15 @@
+- label: People Menu
+  items:
+    - name: Steven Wu
+      link: people
+    - name: Student1
+      link: people#studend1
+    - name: Student2
+      items:
+        - name: Page With Sidebar
+          link: /page-1/
+        - name: Page Without Sidebar
+          link: /page-2/
+        - name: Page With Menubar
+          link: /page-3/
+      link: /blog/
