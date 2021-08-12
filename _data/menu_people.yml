@@ -2,14 +2,16 @@
   items:
     - name: Steven Wu
       link: people
-    - name: Student1
-      link: people#studend1
-    - name: Student2
-      items:
-        - name: Page With Sidebar
-          link: /page-1/
-        - name: Page Without Sidebar
-          link: /page-2/
-        - name: Page With Menubar
-          link: /page-3/
-      link: /blog/
+    # - name: Student1
+    #   link: people#student1
+    # - name: Student2
+    #   link: people#stu-dent-2
+    # - name: Past members
+    #   link: #
+    #   items:
+    #     - name: Page With Sidebar
+    #       link: /page-1/
+    #     - name: Page Without Sidebar
+    #       link: /page-2/
+    #     - name: Page With Menubar
+    #       link: /page-3/
