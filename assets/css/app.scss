@@ -4,6 +4,11 @@
 // $primary: #7ababa;
 $primary: #94b3b0;
 $body-size: 100%;
+// $gap: 1px;
+// Disable the widescreen breakpoint
+// $widescreen-enabled: false;
+// Disable the fullhd breakpoint
+// $fullhd-enabled: false;
 
 // Import Main CSS file from theme
 @import "main";

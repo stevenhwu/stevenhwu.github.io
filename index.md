@@ -9,7 +9,7 @@ Steven Wu is an Assistant Professor in the [Department of Agronomy](http://www.a
 ational Taiwan University](https://www.ntu.edu.tw/english/). My primary research interests are developing statistical and computational models to address challenges in evolution and agriculture using large datasets.
 
 Primary research topics;
-- Plant and soil microbiome and interaction between them.
+- Plant and soil microbiome interaction
 - Statistical methods for applied agriculture and field trial.
 - Computational method for evolutionary biology with NGS data.
 - Integrate analysis.
