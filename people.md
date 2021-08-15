@@ -4,9 +4,9 @@ layout: page
 hide_footer: true
 hero_height: is-small
 show_sidebar: false
-<!-- menubar: menu_people -->
----
 
+---
+<!-- menubar: menu_people -->
 <!-- menubar_toc: true -->
 
 ## PI
@@ -26,16 +26,18 @@ Contact:
 
 <br clear="all">
 
-<!-- **Experience and Education** -->
+**Experience and Education**
 
-\| -----: \| :--- \| :---: \|
+| | | |
+| --- | --- | --- |
 | 2017 - 2021 | BioConsortia, Inc. Davis, CA, USA.   |    Senior scientist |
-| 2014 - 2017 | Arizona State University. AZ, USA.  |  Postdoctoral Associate
-| 2010 - 2014 | Duke University. NC, USA.  |  Postdoctoral Associate
-| 2006 - 2010 (Eligible) <br> 2014 (Applied for graduation) | University of Auckland. Auckland, New Zealand | Ph.D in biology
-| 2002 - 2006 | University of Auckland, Auckland, New Zealand | BSc(Hons) in Bioinformatics
+| 2014 - 2017 | Arizona State University. AZ, USA.  |  Postdoctoral Associate |
+| 2010 - 2014 | Duke University. NC, USA.  |  Postdoctoral Associate |
+| 2006 - 2010 (Eligible) <br> 2014 (Applied for graduation) | University of Auckland. Auckland, New Zealand | Ph.D in biology |
+| 2002 - 2006 | University of Auckland, Auckland, New Zealand | BSc(Hons) in Bioinformatics |
 
 <!--
+| ---: | :--- | :---: |
 <i class="fas fa-envelope"></i>
 -->
 
