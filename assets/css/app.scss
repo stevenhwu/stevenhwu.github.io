@@ -8,7 +8,7 @@ $body-size: 100%;
 // Disable the widescreen breakpoint
 // $widescreen-enabled: false;
 // Disable the fullhd breakpoint
-// $fullhd-enabled: false;
+$fullhd-enabled: false;
 
 // Import Main CSS file from theme
 @import "main";

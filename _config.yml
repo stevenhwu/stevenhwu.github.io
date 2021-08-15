@@ -12,7 +12,20 @@ url: "https://stevenhwu.github.io/"
 permalink: pretty
 fixed_navbar: top
 hide_footer: true
+# footer_menu: footer_menu
 # hero_height: is-small
 plugins:
 - github-pages
-# footer_menu: footer_menu
+
+
+exclude:
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true

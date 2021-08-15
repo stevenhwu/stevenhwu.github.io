@@ -4,8 +4,10 @@
   link: /people/
 - name: Teaching
   link: /teaching/
-- name: Software
-  link: /software/
+- name: Publications
+  link: /publications/
+# - name: Software
+#   link: /software/
 - name: Contact
   link: /contact/
   # dropdown:
