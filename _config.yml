@@ -23,6 +23,7 @@ livereload: true
 
 plugins:
 - github-pages
+- jekyll-sitemap
 
 
 exclude:
