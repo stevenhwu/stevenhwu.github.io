@@ -75,7 +75,7 @@ Contact:
 
 <img src="../img/random.png" align="left" hspace="50" width="20%">
 #### Ting-Jung Zhang
-[Ting-Jung](../personal_page/ting_jung/) is a first year master student.
+<!-- [Ting-Jung](../personal_page/ting_jung/) is a first year master student. -->
 
 <i class="fas fa-at"></i> [Email](mailto:)
 
