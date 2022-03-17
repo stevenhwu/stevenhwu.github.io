@@ -75,7 +75,7 @@ Contact:
 
 <img src="../img/random.png" align="left" hspace="50" width="20%">
 #### Ting-Jung Zhang
-<!-- [Ting-Jung](../personal_page/ting_jung/) is a first year master student. -->
+[Ting-Jung](../personal_page/ting_jung/) is a first year master student.
 
 <i class="fas fa-at"></i> [Email](mailto:)
 
@@ -93,13 +93,16 @@ Yi-Xun is a second year master student.
 <br clear="all">
 <hr class="solid">
 
-
+<script src="https://kit.fontawesome.com/8d713e5f01.js" crossorigin="anonymous"></script>
 ## Undergraduate students
 <img src="../img/random.png" align="right" hspace="50" width="25%">
 ##### Kent Daniel        
  <!-- b08605042@ntu.edu.tw -->
+[Kent](http://kentdaniel.com/) is a third year student who is interested in multiple aspects of bioinformatics.
+For more information please visit his personal website
 
-<i class="fas fa-at"></i> [Email](mailto:)
+<i class="fas fa-browser"></i>[Kent Daniel](http://kentdaniel.com/)
+<i class="fa-solid fa-at"></i> [Email](mailto:)
 
 <br clear="all">
 <hr class="solid">
