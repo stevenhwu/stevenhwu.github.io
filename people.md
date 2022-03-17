@@ -101,7 +101,7 @@ Yi-Xun is a second year master student.
 [Kent](http://kentdaniel.com/) is a third year student who is interested in multiple aspects of bioinformatics.
 For more information please visit his personal website
 
-<i class="fas fa-browser"></i>[Kent Daniel](http://kentdaniel.com/)
+<i class="fas fa-link"></i> [Kent Daniel](http://kentdaniel.com/)
 <i class="fa-solid fa-at"></i> [Email](mailto:)
 
 <br clear="all">
