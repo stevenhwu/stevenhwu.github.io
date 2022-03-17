@@ -102,7 +102,7 @@ Yi-Xun is a second year master student.
 For more information please visit his personal website
 
 <i class="fas fa-browser"></i>[Kent Daniel](http://kentdaniel.com/)
-<i class="fa-solid fa-at"></i> [Email](mailto:)
+<i class="fa-solid fa-at"></i> [Email](mailto:kentdaniel18@gmail.com)
 
 <br clear="all">
 <hr class="solid">
