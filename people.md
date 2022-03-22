@@ -81,7 +81,7 @@ Contact:
 
 <img src="../img/random.png" align="left" hspace="50" width="20%">
 #### Ting-Jung Zhang
-[Ting-Jung](../personal_page/ting_jung/) is a first year master student.
+[Ting-Jung](../personal_page/ting_jung_zhang/) is a first year master student.
 
 <i class="fas fa-at"></i> [Email](mailto:)
 
@@ -100,7 +100,11 @@ Yi-Xun is a second year master student.
 <hr class="solid">
 
 <script src="https://kit.fontawesome.com/8d713e5f01.js" crossorigin="anonymous"></script>
+
+
 ## Undergraduate students
+
+
 <img src="../img/random.png" align="right" hspace="50" width="25%">
 ##### Kent Daniel        
  <!-- b08605042@ntu.edu.tw -->
