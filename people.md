@@ -118,7 +118,7 @@ For more information please visit his personal website
 <hr class="solid">
 
 
-<img src="../img/Zheng-Xiang_Ye" align="left" hspace="50" width="25%">
+<img src="../img/Zheng-Xiang_Ye.jpg" align="left" hspace="50" width="25%">
 ##### Zheng-Xiang Ye
 Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microbiology. He is passionate about plants and would like to contribute to agricultural development in the future. He is now working on exploring the interactions between microbial communities and plants.
 
