@@ -61,7 +61,7 @@ hr.rounded {
 
 ## Master students
 
-<img src="../img/random.png" align="right" hspace="50" width="25%">
+<img src="../img/random.jpg" align="right" hspace="50" width="25%">
 #### Yi-Cheng Lin
 Co-supervised with Professor Yann-Rong Lin
 
@@ -79,7 +79,7 @@ Contact:
 
 
 
-<img src="../img/random.png" align="left" hspace="50" width="20%">
+<img src="../img/random.jpg" align="left" hspace="50" width="20%">
 #### Ting-Jung Zhang
 [Ting-Jung](../personal_page/ting_jung_zhang/) is a first year master student.
 
@@ -91,7 +91,7 @@ Contact:
 -------------
 
 #### Yi-Xun Lai  		
-<img src="../img/random.png" align="right" hspace="50" width="25%">
+<img src="../img/random.jpg" align="right" hspace="50" width="25%">
 Yi-Xun is a second year master student.
 
 <i class="fas fa-at"></i> [Email](mailto:)
@@ -105,7 +105,7 @@ Yi-Xun is a second year master student.
 ## Undergraduate students
 
 
-<img src="../img/random.png" align="right" hspace="50" width="25%">
+<img src="../img/random.jpg" align="right" hspace="50" width="25%">
 ##### Kent Daniel        
  <!-- b08605042@ntu.edu.tw -->
 [Kent](http://kentdaniel.com/) is a third year student who is interested in multiple aspects of bioinformatics.
@@ -118,17 +118,17 @@ For more information please visit his personal website
 <hr class="solid">
 
 
-<img src="../img/random.png" align="left" hspace="50" width="25%">
-##### Zheng-Xiang Ye     
- <!-- b07613010@ntu.edu.tw -->
+<img src="../img/Zheng-Xiang_Ye" align="left" hspace="50" width="25%">
+##### Zheng-Xiang Ye
+Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microbiology. He is passionate about plants and would like to contribute to agricultural development in the future. He is now working on exploring the interactions between microbial communities and plants.
 
-<i class="fas fa-at"></i> [Email](mailto:)
+<i class="fas fa-at"></i> [Email](mailto:b07613010@ntu.edu.tw)
 
 <br clear="all">
 <hr class="solid">
 
 
-<img src="../img/random.png" align="right" hspace="50" width="25%">
+<img src="../img/random.jpg" align="right" hspace="50" width="25%">
 #### Max Yuan            
 <!-- b08601028@ntu.edu.tw -->
 
@@ -138,7 +138,7 @@ For more information please visit his personal website
 <hr class="solid">
 
 
-<img src="../img/random.png" align="right" hspace="50" width="25%">
+<img src="../img/random.jpg" align="right" hspace="50" width="25%">
 #### Sandy Lin           
 <!-- b08601017@ntu.edu.tw -->
 
@@ -148,7 +148,7 @@ For more information please visit his personal website
 <hr class="solid">
 
 
-<img src="../img/random.png" align="left" hspace="50" width="25%">
+<img src="../img/random.jpg" align="left" hspace="50" width="25%">
 #### Si-Ting Dan       
   <!-- b08601054@ntu.edu.tw -->
 
