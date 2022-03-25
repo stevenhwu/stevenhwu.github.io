@@ -79,11 +79,11 @@ Contact:
 
 
 
-<img src="../img/random.jpg" align="left" hspace="50" width="20%">
+<img src="../img/Ting-Jung_Chang.jpg" align="left" hspace="50" width="20%">
 #### Ting-Jung Zhang
-[Ting-Jung](../personal_page/ting_jung_zhang/) is a first year master student.
+[Ting-Jung](../personal_page/ting_jung_chang/) is a first year master student. He has participated in experiments on nitrogen use efficiency in rice.
 
-<i class="fas fa-at"></i> [Email](mailto:)
+<i class="fas fa-at"></i> [Email](mailto:poillexr123@gmail.com)
 
 <br clear="all">
 <hr class="solid">
