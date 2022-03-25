@@ -1,5 +1,5 @@
 ---
-title: Ting Jung Chang
+title: NAME
 layout: page
 hide_footer: true
 hero_height: is-small
@@ -7,11 +7,8 @@ show_sidebar: false
 
 ---
 
-## Ting Jung Chang
-<img src="../../img/Ting-Jung_Chang.jpg" align="left" hspace="10" width="25%">
-
-Ting June's person page.
-Ting June is a first year master student.
+## Name
+<img src="../../img/random.jpg" align="left" hspace="10" width="25%">
 
 
 Contact:
