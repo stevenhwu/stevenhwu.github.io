@@ -80,7 +80,7 @@ Contact:
 
 
 <img src="../img/Ting-Jung_Chang.jpg" align="left" hspace="50" width="20%">
-#### Ting-Jung Zhang
+#### Ting-Jung Chang
 [Ting-Jung](../personal_page/ting_jung_chang/) is a first year master student. He has participated in experiments on nitrogen use efficiency in rice.
 
 <i class="fas fa-at"></i> [Email](mailto:poillexr123@gmail.com)
@@ -90,16 +90,15 @@ Contact:
 
 -------------
 
-#### Yi-Xun Lai  		
+#### Yi-Syun Lai  		
 <img src="../img/random.jpg" align="right" hspace="50" width="25%">
-Yi-Xun is a second year master student.
+Yi-Syun is a second year master student.
 
 <i class="fas fa-at"></i> [Email](mailto:)
 
 <br clear="all">
 <hr class="solid">
 
-<script src="https://kit.fontawesome.com/8d713e5f01.js" crossorigin="anonymous"></script>
 
 
 ## Undergraduate students
@@ -149,7 +148,7 @@ Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microb
 
 
 <img src="../img/random.jpg" align="left" hspace="50" width="25%">
-#### Si-Ting Dan       
+#### Szu-Ting Tan
   <!-- b08601054@ntu.edu.tw -->
 
 <i class="fas fa-at"></i> [Email](mailto:)
