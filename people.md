@@ -111,7 +111,7 @@ Yi-Syun is a second year master student.
 For more information please visit his personal website
 
 <i class="fas fa-link"></i>[Kent Daniel](http://kentdaniel.com/)
-<i class="fa-solid fa-at"></i> [Email](mailto:kentdaniel18@gmail.com)
+<i class="fas fa-at"></i> [Email](mailto:kentdaniel18@gmail.com)
 
 <br clear="all">
 <hr class="solid">
@@ -127,17 +127,17 @@ Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microb
 <hr class="solid">
 
 
-<img src="../img/random.jpg" align="right" hspace="50" width="25%">
+<img src="../img/Max_Yuan.jpg" align="right" hspace="50" width="25%">
 #### Max Yuan            
-<!-- b08601028@ntu.edu.tw -->
+Max Yuan is a third-year student majored in Agronomy. Passionate about biological statistics and bioinformatics, he has been taking a set of classes of the correlating field and planned to go for a further study in USA.
 
-<i class="fas fa-at"></i> [Email](mailto:)
+<i class="fas fa-at"></i> [Email](mailto:b08601028@ntu.edu.tw)
 
 <br clear="all">
 <hr class="solid">
 
 
-<img src="../img/random.jpg" align="right" hspace="50" width="25%">
+<img src="../img/random.jpg" align="left" hspace="50" width="25%">
 #### Sandy Lin           
 <!-- b08601017@ntu.edu.tw -->
 
@@ -147,7 +147,7 @@ Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microb
 <hr class="solid">
 
 
-<img src="../img/random.jpg" align="left" hspace="50" width="25%">
+<img src="../img/random.jpg" align="right" hspace="50" width="25%">
 #### Szu-Ting Tan
   <!-- b08601054@ntu.edu.tw -->
 
