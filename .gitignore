@@ -1,4 +1,4 @@
-*.gem
+# Ignore the fl*.gem
 .bundle
 .sass-cache
 _site
