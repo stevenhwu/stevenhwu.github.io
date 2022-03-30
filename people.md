@@ -88,13 +88,11 @@ Contact:
 <br clear="all">
 <hr class="solid">
 
--------------
 
+<img src="../img/Yi-Syun_Lai.jpg" align="right" hspace="50" width="25%">
 #### Yi-Syun Lai  		
-<img src="../img/random.jpg" align="right" hspace="50" width="25%">
-Yi-Syun is a second year master student.
-
-<i class="fas fa-at"></i> [Email](mailto:)
+Yi-Syun is a second year master student. He studied at the department of agronomy in NCHU. He has participated in experiments on order of addition experiments.
+<i class="fas fa-at"></i> [Email](mailto:stupid60107@gmail.com)
 
 <br clear="all">
 <hr class="solid">
