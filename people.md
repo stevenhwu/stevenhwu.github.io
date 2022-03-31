@@ -68,8 +68,8 @@ Co-supervised with Professor Yann-Rong Lin
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:r08621120@ntu.edu.tw)
 <i class="fas fa-link"></i> [Website]()
-<i class="fa-brands fa-linkedin"></i> [LinkedIn]()
-<i class="fa-brands fa-twitter"></i> [Twitter]()
+<i class="fas fa-linkedin"></i> [LinkedIn]()
+<i class="fas fa-twitter"></i> [Twitter]()
 <i class="fab fa-google"></i> [Google]()  
 <i class="fab fa-github"></i> [Github]()  
 
