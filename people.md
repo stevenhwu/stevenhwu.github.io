@@ -127,7 +127,7 @@ Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microb
 
 <img src="../img/Max_Yuan.jpg" align="right" hspace="50" width="25%">
 #### Max Yuan            
-Max Yuan is a third-year student majored in Agronomy. Passionate about biological statistics and bioinformatics, he has been taking a set of classes of the correlating field and planned to go for a further study in USA.
+Max Yuan is a third-year student majored in Agronomy. Passionate about biological statistics and bioinformatics, he has been taking a set of classes of the correlating field and planned to go for a further study in USA.He is now working on a project themed with the simulation of how endomycorrhiza spreading in plants cells.
 
 <i class="fas fa-at"></i> [Email](mailto:b08601028@ntu.edu.tw)
 
