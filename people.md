@@ -81,7 +81,7 @@ Contact:
 
 <img src="../img/Ting-Jung_Chang.jpg" align="left" hspace="50" width="20%">
 #### Ting-Jung Chang
-[Ting-Jung](../personal_page/ting_jung_chang/) is a first year master student. He has participated in experiments on nitrogen use efficiency in rice.
+[Ting-Jung](../personal_page/ting_jung_chang/) is a first year master student. He has participated in experiments on nitrogen use efficiency in rice, and cultivation of small fruit tomatoes using non-destructive detection in greenhouse. He is now working on image recognition.
 
 <i class="fas fa-at"></i> [Email](mailto:poillexr123@gmail.com)
 
