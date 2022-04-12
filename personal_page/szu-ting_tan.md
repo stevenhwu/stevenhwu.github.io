@@ -10,6 +10,7 @@ show_sidebar: false
 ## Name
 <img src="../../img/random.jpg" align="left" hspace="10" width="25%">
 
+Szu-ting is a third-year student majored in Agronomy.
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:)  
