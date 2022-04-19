@@ -145,9 +145,9 @@ Max Yuan is a third-year student majored in Agronomy. Passionate about biologica
 <hr class="solid">
 
 
-<img src="../img/random.jpg" align="right" hspace="50" width="25%">
+<img src="../img/szi-ting.JPG" align="right" hspace="50" width="25%">
 #### Szu-Ting Tan
-  
+
 [Szu-ting](../personal_page/szu-ting_tan/)  is a third-year student majored in Agronomy.
 <i class="fas fa-at"></i> [Email](mailto:b08601054@ntu.edu.tw)
 
