@@ -137,9 +137,8 @@ Max Yuan is a third-year student majored in Agronomy. Passionate about biologica
 
 <img src="../img/random.jpg" align="left" hspace="50" width="25%">
 #### Sandy Lin           
-<!-- b08601017@ntu.edu.tw -->
 
-<i class="fas fa-at"></i> [Email](mailto:)
+<i class="fas fa-at"></i> [Email](mailto:b08601017@ntu.edu.tw)
 
 <br clear="all">
 <hr class="solid">

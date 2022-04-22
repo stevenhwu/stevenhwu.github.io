@@ -1,3 +1,4 @@
+# Lab website
 ## Welcome to GitHub Pages
 - GitHub page basic. https://pages.github.com/
 - [Test and preview locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll). This does require you to install Jekyll and a few other prerequisites.
