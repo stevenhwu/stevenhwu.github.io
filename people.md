@@ -68,8 +68,8 @@ Co-supervised with Professor Yann-Rong Lin
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:r08621120@ntu.edu.tw)
 <i class="fas fa-link"></i> [Website]()
-<i class="fa-brands fa-linkedin"></i> [LinkedIn]()
-<i class="fa-brands fa-twitter"></i> [Twitter]()
+<i class="fas fa-linkedin"></i> [LinkedIn]()
+<i class="fas fa-twitter"></i> [Twitter]()
 <i class="fab fa-google"></i> [Google]()  
 <i class="fab fa-github"></i> [Github]()  
 
@@ -81,20 +81,18 @@ Contact:
 
 <img src="../img/Ting-Jung_Chang.jpg" align="left" hspace="50" width="20%">
 #### Ting-Jung Chang
-[Ting-Jung](../personal_page/ting_jung_chang/) is a first year master student. He has participated in experiments on nitrogen use efficiency in rice.
+[Ting-Jung](../personal_page/ting_jung_chang/) is a first year master student. He has participated in experiments on nitrogen use efficiency in rice, and cultivation of small fruit tomatoes using non-destructive detection in greenhouse. He is now working on image recognition.
 
 <i class="fas fa-at"></i> [Email](mailto:poillexr123@gmail.com)
 
 <br clear="all">
 <hr class="solid">
 
--------------
 
+<img src="../img/Yi-Syun_Lai.jpg" align="right" hspace="50" width="25%">
 #### Yi-Syun Lai  		
-<img src="../img/random.jpg" align="right" hspace="50" width="25%">
-Yi-Syun is a second year master student.
-
-<i class="fas fa-at"></i> [Email](mailto:)
+Yi-Syun is a second year master student. He studied at the department of agronomy in NCHU. He has participated in experiments on order of addition experiments.
+<i class="fas fa-at"></i> [Email](mailto:stupid60107@gmail.com)
 
 <br clear="all">
 <hr class="solid">
@@ -129,7 +127,7 @@ Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microb
 
 <img src="../img/Max_Yuan.jpg" align="right" hspace="50" width="25%">
 #### Max Yuan            
-Max Yuan is a third-year student majored in Agronomy. Passionate about biological statistics and bioinformatics, he has been taking a set of classes of the correlating field and planned to go for a further study in USA.
+Max Yuan is a third-year student majored in Agronomy. Passionate about biological statistics and bioinformatics, he has been taking a set of classes of the correlating field and planned to go for a further study in USA.He is now working on a project themed with the simulation of how endomycorrhiza spreading in plants cells.
 
 <i class="fas fa-at"></i> [Email](mailto:b08601028@ntu.edu.tw)
 
@@ -147,11 +145,11 @@ Max Yuan is a third-year student majored in Agronomy. Passionate about biologica
 <hr class="solid">
 
 
-<img src="../img/random.jpg" align="right" hspace="50" width="25%">
+<img src="../img/szi-ting.JPG" align="right" hspace="50" width="25%">
 #### Szu-Ting Tan
-  <!-- b08601054@ntu.edu.tw -->
 
-<i class="fas fa-at"></i> [Email](mailto:)
+[Szu-ting](../personal_page/szu-ting_tan/)  is a third-year student majored in Agronomy.
+<i class="fas fa-at"></i> [Email](mailto:b08601054@ntu.edu.tw)
 
 <br clear="all">
 <hr class="solid">
