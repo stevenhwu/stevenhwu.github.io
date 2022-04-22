@@ -63,7 +63,7 @@ hr.rounded {
 
 <img src="../img/random.jpg" align="right" hspace="50" width="25%">
 #### Yi-Cheng Lin
-Co-supervised with Professor Yann-Rong Lin
+Master student co-supervised with Professor Yann-Rong Lin
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:r08621120@ntu.edu.tw)
