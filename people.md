@@ -61,17 +61,12 @@ hr.rounded {
 
 ## Master students
 
-<img src="../img/random.jpg" align="right" hspace="50" width="25%">
+<img src="../img/Yi-Cheng_Lin.JPEG" align="right" hspace="50" width="25%">
 #### Yi-Cheng Lin
-Master student co-supervised with Professor Yann-Rong Lin
+Master student co-supervised with Professor Yann-Rong Lin. Now, study on the microbial communities in different species of sorghum.
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:r08621120@ntu.edu.tw)
-<i class="fas fa-link"></i> [Website]()
-<i class="fas fa-linkedin"></i> [LinkedIn]()
-<i class="fas fa-twitter"></i> [Twitter]()
-<i class="fab fa-google"></i> [Google]()  
-<i class="fab fa-github"></i> [Github]()  
 
 
 <br clear="all">
