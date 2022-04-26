@@ -61,7 +61,7 @@ hr.rounded {
 
 ## Master students
 
-<img src="../img/Yi-Cheng_Lin.jpg" align="right" hspace="50" width="25%">
+<img src="../img/Yi-Cheng_Lin.JPEG" align="right" hspace="50" width="25%">
 #### Yi-Cheng Lin
 Master student co-supervised with Professor Yann-Rong Lin. Now, study on the microbial communities in different species of sorghum.
 
