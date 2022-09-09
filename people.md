@@ -85,7 +85,7 @@ Contact:
 
 <img src="../img/Yi-Syun_Lai.jpg" align="right" hspace="50" width="25%">
 #### Yi-Syun Lai  		
-[Yi-Syun] is a second year master student. He studied at the department of agronomy in NCHU. He has participated in experiments on order of addition experiments.
+Yi-Syun is a second year master student. He studied at the department of agronomy in NCHU. He has participated in experiments on order of addition experiments.
 
 <i class="fas fa-at"></i> [Email](mailto:stupid60107@gmail.com)
 
@@ -95,7 +95,7 @@ Contact:
 
 
 <img src="../img/random.jpg" align="left" hspace="50" width="25%">
-#### [Yu-Han Wu](../personal_page/)
+#### Yu-Han Wu
 
 <i class="fas fa-at"></i> [Email](mailto:jack57648893@gmail.com)
 
