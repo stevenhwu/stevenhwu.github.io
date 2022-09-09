@@ -68,7 +68,6 @@ Master student co-supervised with Professor Yann-Rong Lin. Now, study on the mic
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:r08621120@ntu.edu.tw)
 
-
 <br clear="all">
 <hr class="rounded">
 
@@ -86,13 +85,22 @@ Contact:
 
 <img src="../img/Yi-Syun_Lai.jpg" align="right" hspace="50" width="25%">
 #### Yi-Syun Lai  		
-Yi-Syun is a second year master student. He studied at the department of agronomy in NCHU. He has participated in experiments on order of addition experiments.
+[Yi-Syun] is a second year master student. He studied at the department of agronomy in NCHU. He has participated in experiments on order of addition experiments.
+
 <i class="fas fa-at"></i> [Email](mailto:stupid60107@gmail.com)
 
 <br clear="all">
 <hr class="solid">
 
 
+
+<img src="../img/random.jpg" align="left" hspace="50" width="25%">
+#### [Yu-Han Wu](../personal_page/)
+
+<i class="fas fa-at"></i> [Email](mailto:jack57648893@gmail.com)
+
+<br clear="all">
+<hr class="solid">
 
 ## [Undergraduate students](#undergrad)
 
@@ -122,7 +130,7 @@ Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microb
 
 <img src="../img/Max_Yuan.jpg" align="right" hspace="50" width="25%">
 #### Max Yuan            
-Max Yuan is a third-year student majored in Agronomy. Passionate about biological statistics and bioinformatics, he has been taking a set of classes of the correlating field and planned to go for a further study in USA.He is now working on a project themed with the simulation of how endomycorrhiza spreading in plants cells.
+[Max Yuan](../personal_page/max_yuan/) is a third-year student majored in Agronomy. Passionate about biological statistics and bioinformatics, he has been taking a set of classes of the correlating field and planned to go for a further study in USA.He is now working on a project themed with the simulation of how endomycorrhiza spreading in plants cells.
 
 <i class="fas fa-at"></i> [Email](mailto:b08601028@ntu.edu.tw)
 
@@ -133,6 +141,7 @@ Max Yuan is a third-year student majored in Agronomy. Passionate about biologica
 <img src="../img/random.jpg" align="left" hspace="50" width="25%">
 #### Sandy Lin           
 Sandy Lin is a third-year student majored in Agronomy.She is passionate about biological statistics and would like to dive into this field in the future.
+
 <i class="fas fa-at"></i> [Email](mailto:b08601017@ntu.edu.tw)
 
 <br clear="all">
@@ -143,6 +152,7 @@ Sandy Lin is a third-year student majored in Agronomy.She is passionate about bi
 #### Szu-Ting Tan
 
 [Szu-ting](../personal_page/szu-ting_tan/)  is a third-year student majored in Agronomy.
+
 <i class="fas fa-at"></i> [Email](mailto:b08601054@ntu.edu.tw)
 
 <br clear="all">

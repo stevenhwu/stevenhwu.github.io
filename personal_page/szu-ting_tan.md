@@ -1,5 +1,5 @@
 ---
-title: NAME
+title: YOUR_NAME
 layout: page
 hide_footer: true
 hero_height: is-small

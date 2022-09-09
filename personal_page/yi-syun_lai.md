@@ -1,5 +1,5 @@
 ---
-title: NAME
+title: YOUR_NAME
 layout: page
 hide_footer: true
 hero_height: is-small
@@ -7,7 +7,7 @@ show_sidebar: false
 
 ---
 
-## Name
+## YOUR_NAME
 <img src="../../img/random.jpg" align="left" hspace="10" width="25%">
 
 

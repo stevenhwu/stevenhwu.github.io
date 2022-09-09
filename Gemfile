@@ -8,6 +8,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll"
 gem "jekyll-sitemap"
 gem "bulma-clean-theme"
+gem "webrick"
 
 # gem "minimal-mistakes-jekyll"
 # gem "rails"
