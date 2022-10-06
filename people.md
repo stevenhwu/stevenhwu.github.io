@@ -59,7 +59,7 @@ hr.rounded {
   border-radius: 5px;
 } -->
 
-## [Master students](#master)
+## [Master students](#master-students)
 
 <img src="../img/Yi-Cheng_Lin.JPEG" align="right" hspace="50" width="25%">
 #### Yi-Cheng Lin
@@ -102,7 +102,7 @@ Yi-Syun is a second year master student. He studied at the department of agronom
 <br clear="all">
 <hr class="solid">
 
-## [Undergraduate students](#undergrad)
+## [Undergraduate students](#undergraduate-students)
 
 
 <img src="../img/random.jpg" align="right" hspace="50" width="25%">
