@@ -18,11 +18,11 @@ show_sidebar: false
 Steven Wu is an Assistant Professor in the [Department of Agronomy](http://www.agron.ntu.edu.tw/) at [National Taiwan University](https://www.ntu.edu.tw/). His primary research interests are developing statistical and computational models to address challenges in agriculture, metagenomic, and evolution. He was the head of bioinformatics at an agriculture startup in California, USA, postdoctoral associate in Arizona State and Duke University. With unique experiences in both academics and industry, he can get the best out of both worlds.
 
 Contact:
-<i class="fas fa-at"></i> [Email](mailto:stevenwu@ntu.edu.tw)  
-<i class="fas fa-link"></i> [NTU_Website](http://www.agron.ntu.edu.tw/cp_n_74935_s_30778_state_F5D336F102ACBC68.html)  
-<i class="fab fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=7nxUa9IAAAAJ&hl=en)  
-<i class="fab fa-github"></i> [Github](https://github.com/stevenhwu)  
-<i class="fab fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-7685-8009)  
+<i class="fas fa-at"></i> [Email](mailto:stevenwu@ntu.edu.tw) ??
+<i class="fas fa-link"></i> [NTU_Website](http://www.agron.ntu.edu.tw/cp_n_74935_s_30778_state_F5D336F102ACBC68.html) ??
+<i class="fab fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=7nxUa9IAAAAJ&hl=en) ??
+<i class="fab fa-github"></i> [Github](https://github.com/stevenhwu) ??
+<i class="fab fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-7685-8009) ??
 
 <br clear="all">
 
@@ -70,8 +70,8 @@ Contact:
 <i class="fas fa-link"></i> [Website]()
 <i class="fas fa-linkedin"></i> [LinkedIn]()
 <i class="fas fa-twitter"></i> [Twitter]()
-<i class="fab fa-google"></i> [Google]()  
-<i class="fab fa-github"></i> [Github]()  
+<i class="fab fa-google"></i> [Google]() ??
+<i class="fab fa-github"></i> [Github]() ??
 
 
 <br clear="all">
@@ -127,7 +127,7 @@ Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microb
 
 <img src="../img/Max_Yuan.jpg" align="right" hspace="50" width="25%">
 #### Max Yuan            
-Max Yuan is a third-year student majored in Agronomy. Passionate about biological statistics and bioinformatics, he has been taking a set of classes of the correlating field and planned to go for a further study in USA.He is now working on a project themed with the simulation of how endomycorrhiza spreading in plants cells.
+Shuai(Max) Yuan is a fourth-year student majored in Agronomy. Passionate about biostatistics and bioinformatics, he has been taking a set of classes of the correlating field and plans to go for a further study in USA. He is now working on a computational project building an agent based-model in R language to simulate how microbes spread in the soils to plants' roots.A thesis concerning the project's theme is also under construction.
 
 <i class="fas fa-at"></i> [Email](mailto:b08601028@ntu.edu.tw)
 
