@@ -13,7 +13,7 @@ show_sidebar: false
 
 <!-- ![](img/Wu_website.jpg){:width="128px"} -->
 
-<img src="../img/Wu_website.jpg" align="left" hspace="10" width="25%">
+<img src="{{site.url}}/img/Wu_website.jpg" align="left" hspace="10" width="25%">
 
 Steven Wu is an Assistant Professor in the [Department of Agronomy](http://www.agron.ntu.edu.tw/) at [National Taiwan University](https://www.ntu.edu.tw/). His primary research interests are developing statistical and computational models to address challenges in agriculture, metagenomic, and evolution. He was the head of bioinformatics at an agriculture startup in California, USA, postdoctoral associate in Arizona State and Duke University. With unique experiences in both academics and industry, he can get the best out of both worlds.
 
@@ -61,21 +61,9 @@ hr.rounded {
 
 ## [Master students](#master-students)
 
-<img src="../img/Yi-Cheng_Lin.JPEG" align="right" hspace="50" width="25%">
-#### Yi-Cheng Lin
-Master student co-supervised with Professor Yann-Rong Lin. Now, study on the microbial communities in different species of sorghum.
-
-Contact:
-<i class="fas fa-at"></i> [Email](mailto:r08621120@ntu.edu.tw)
-
-<br clear="all">
-<hr class="rounded">
-
-
-
-<img src="../img/Ting-Jung_Chang.jpg" align="left" hspace="50" width="20%">
+<img src="{{site.url}}/img/Ting-Jung_Chang.jpg" align="left" hspace="50" width="20%">
 #### Ting-Jung Chang
-[Ting-Jung](../personal_page/ting_jung_chang/) is a first year master student. He has participated in experiments on nitrogen use efficiency in rice, and cultivation of small fruit tomatoes using non-destructive detection in greenhouse. He is now working on image recognition.
+[Ting-Jung](/personal_page/ting_jung_chang/) is a first year master student. He has participated in experiments on nitrogen use efficiency in rice, and cultivation of small fruit tomatoes using non-destructive detection in greenhouse. He is now working on image recognition.
 
 <i class="fas fa-at"></i> [Email](mailto:poillexr123@gmail.com)
 
@@ -83,7 +71,7 @@ Contact:
 <hr class="solid">
 
 
-<img src="../img/Yi-Syun_Lai.jpg" align="right" hspace="50" width="25%">
+<img src="{{base.url}}/img/Yi-Syun_Lai.jpg" align="right" hspace="50" width="25%">
 #### Yi-Syun Lai  		
 Yi-Syun is a third year master student. He studied at the department of agronomy in NCHU. He has participated in experiments on order of addition experiments. Now, he foucs on microbiome taxonomy project. He is the oldest student in our lab. Hope he can graduate as soon as he can.
 
@@ -94,7 +82,7 @@ Yi-Syun is a third year master student. He studied at the department of agronomy
 
 
 
-<img src="../img/random.jpg" align="left" hspace="50" width="25%">
+<img src="{{base.url}}/img/random.jpg" align="left" hspace="50" width="25%">
 #### Yu-Han Wu
 
 <i class="fas fa-at"></i> [Email](mailto:jack57648893@gmail.com)
@@ -105,7 +93,7 @@ Yi-Syun is a third year master student. He studied at the department of agronomy
 ## [Undergraduate students](#undergraduate-students)
 
 
-<img src="../img/random.jpg" align="right" hspace="50" width="25%">
+<img src="{{base.url}}/img/random.jpg" align="right" hspace="50" width="25%">
 ##### Kent Daniel        
  <!-- b08605042@ntu.edu.tw -->
 [Kent](http://kentdaniel.com/) is a third year student who is interested in multiple aspects of bioinformatics.
@@ -118,7 +106,7 @@ For more information please visit his personal website
 <hr class="solid">
 
 
-<img src="../img/Zheng-Xiang_Ye.jpg" align="left" hspace="50" width="25%">
+<img src="{{base.url}}/img/Zheng-Xiang_Ye.jpg" align="left" hspace="50" width="25%">
 ##### Zheng-Xiang Ye
 Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microbiology, and minors in chemistry. He is passionate about bioinformatics and systems biology. Currently he is dedicated to the biological pathways in bateria that help the promotion of plant growth, developing a model to evaluate the potential bacterial species that can be commercialized as biofertilizers.  
 
@@ -128,7 +116,7 @@ Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microb
 <hr class="solid">
 
 
-<img src="../img/Max_Yuan.jpg" align="right" hspace="50" width="25%">
+<img src="{{base.url}}/img/Max_Yuan.jpg" align="right" hspace="50" width="25%">
 #### Max Yuan            
 Shuai(Max) Yuan is a fourth-year student majored in Agronomy. Passionate about biostatistics and bioinformatics, he has been taking a set of classes of the correlating field and plans to go for a further study in USA. He is now working on a computational project building an agent based-model in R language to simulate how microbes spread in the soils to plants' roots.A thesis concerning the project's theme is also under construction.
 
@@ -138,9 +126,9 @@ Shuai(Max) Yuan is a fourth-year student majored in Agronomy. Passionate about b
 <hr class="solid">
 
 
-<img src="../img/random.jpg" align="left" hspace="50" width="25%">
+<img src="{{base.url}}/img/random.jpg" align="left" hspace="50" width="25%">
 #### Sandy Lin           
-Sandy Lin is a third-year student majored in Agronomy.She is passionate about biological statistics and would like to dive into this field in the future.
+Sandy Lin is a third-year student majored in Agronomy. She is passionate about biological statistics and would like to dive into this field in the future.
 
 <i class="fas fa-at"></i> [Email](mailto:b08601017@ntu.edu.tw)
 
@@ -148,10 +136,10 @@ Sandy Lin is a third-year student majored in Agronomy.She is passionate about bi
 <hr class="solid">
 
 
-<img src="../img/szi-ting.JPG" align="right" hspace="50" width="25%">
+<img src="{{base.url}}/img/szi-ting.JPG" align="right" hspace="50" width="25%">
 #### Szu-Ting Tan
 
-[Szu-ting](../personal_page/szu-ting_tan/)  is a third-year student majored in Agronomy.
+[Szu-ting](/personal_page/szu-ting_tan/)  is a third-year student majored in Agronomy.
 
 <i class="fas fa-at"></i> [Email](mailto:b08601054@ntu.edu.tw)
 
@@ -161,8 +149,20 @@ Sandy Lin is a third-year student majored in Agronomy.She is passionate about bi
 
 
 
-<!--
 ## Alumni
+
+<img src="{{site.url}}/img/Yi-Cheng_Lin.JPEG" align="right" hspace="50" width="25%">
+#### Yi-Cheng Lin - 2022
+Master student co-supervised with Professor Yann-Rong Lin. Now, study on the microbial communities in different species of sorghum.
+
+Contact:
+<i class="fas fa-at"></i> [Email](mailto:r08621120@ntu.edu.tw)
+
+<br clear="all">
+<hr class="rounded">
+
+
+<!--
 
 ## Stu Dent 2
 - aoeu
