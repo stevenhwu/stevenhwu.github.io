@@ -82,8 +82,11 @@ Yi-Syun is a third year master student. He studied at the department of agronomy
 
 
 
-<img src="{{base.url}}/img/random.jpg" align="left" hspace="50" width="25%">
+<img src="{{base.url}}/img/Yu-han.jpg" align="left" hspace="50" width="25%">
 #### Yu-Han Wu
+
+Yu-Han is a first-year master student. He graduated from NCYU. He had participated in  the project on gene regulation of color in rice husk. Currently he is working on projects related to image analysis.
+
 
 <i class="fas fa-at"></i> [Email](mailto:jack57648893@gmail.com)
 
