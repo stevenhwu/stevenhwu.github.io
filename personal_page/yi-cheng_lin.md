@@ -1,5 +1,5 @@
 ---
-title: YOUR_NAME
+title: Yi-Cheng Lin
 layout: page
 hide_footer: true
 hero_height: is-small
@@ -7,21 +7,25 @@ show_sidebar: false
 
 ---
 
-## YOUR_NAME
-<img src="../../img/random.jpg" align="left" hspace="10" width="25%">
+## Yi-Cheng Lin
+<img src="{{site.url}}/img/Yi-Cheng_Lin.jpg" align="left" hspace="10" width="25%">
+
+Master student co-supervised with Professor Yann-Rong Lin. Now, study on the microbial communities in different species of sorghum.
 
 
 Contact:
-<i class="fas fa-at"></i> [Email](mailto:)  
-<i class="fab fa-google"></i> [Google Scholar]()  
+<i class="fas fa-at"></i> [Email](mailto:r08621120@ntu.edu.tw)
+<!--
 <i class="fab fa-github"></i> [Github]()  
-<i class="fab fa-orcid"></i> [ORCID]()  
+<i class="fab fa-google"></i> [Google Scholar]()  
+<i class="fab fa-linkedin"></i> [LinkedIn]()  
+-->
 
 <br clear="all">
+<hr class="solid">
 
 #### Experience and Education
-Undergraduate:
-
+TODO
 
 #### Projects
 TODO

@@ -16,7 +16,7 @@ Contact:
 <i class="fas fa-at"></i> [Email](mailto:b08601054@ntu.edu.tw)  
 <i class="fab fa-google"></i> [Google Scholar]()  
 <i class="fab fa-github"></i> [Github]()  
-<i class="fab fa-orcid"></i> [ORCID]()  
+<i class="fab fa-linkedin"></i> [LinkedIn]()  
 
 <br clear="all">
 

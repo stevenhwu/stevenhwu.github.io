@@ -1,5 +1,5 @@
 ---
-title: Zheng_Xiang_Ye
+title: Zheng Xiang Ye
 layout: page
 hide_footer: true
 hero_height: is-small
@@ -7,19 +7,31 @@ show_sidebar: false
 
 ---
 
-## Ting Jung Zhang
-<img src="../../img/Zheng-Xiang_Ye.jpg" align="left" hspace="10" width="25%">
+## Zheng Xiang Ye
+<img src="{{site.url}}/img/Zheng-Xiang_Ye.jpg" align="left" hspace="10" width="25%">
 
-Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microbiology. He is passionate about plants and would like to contribute to agricultural development in the future. He is now working on exploring the interactions between microbial communities and plants.
+Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microbiology, and minors in chemistry. He is passionate about bioinformatics and systems biology. Currently he is dedicated to the biological pathways in bateria that help the promotion of plant growth, developing a model to evaluate the potential bacterial species that can be commercialized as biofertilizers.
+
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:b07613010@ntu.edu.tw)
 
+<!--
+<i class="fab fa-github"></i> [Github]()  
+<i class="fab fa-linkedin"></i> [LinkedIn]()
+<i class="fab fa-google"></i> [Google Scholar]()  
+-->
+
 <br clear="all">
+<hr class="solid">
+
+
 
 #### Experience and Education
-Undergraduate:
+TODO
 
+#### Projects
+TODO
 
 #### Skills and qualifications
 TODO

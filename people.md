@@ -61,28 +61,8 @@ hr.rounded {
 
 ## [Master students](#master-students)
 
-<img src="{{site.url}}/img/Ting-Jung_Chang.jpg" align="left" hspace="50" width="20%">
-#### Ting-Jung Chang
-[Ting-Jung](/personal_page/ting_jung_chang/) is a first year master student. He has participated in experiments on nitrogen use efficiency in rice, and cultivation of small fruit tomatoes using non-destructive detection in greenhouse. He is now working on image recognition.
 
-<i class="fas fa-at"></i> [Email](mailto:poillexr123@gmail.com)
-
-<br clear="all">
-<hr class="solid">
-
-
-<img src="{{base.url}}/img/Yi-Syun_Lai.jpg" align="right" hspace="50" width="25%">
-#### Yi-Syun Lai  		
-Yi-Syun is a third year master student. He studied at the department of agronomy in NCHU. He has participated in experiments on order of addition experiments. Now, he foucs on microbiome taxonomy project. He is the oldest student in our lab. Hope he can graduate as soon as he can.
-
-<i class="fas fa-at"></i> [Email](mailto:stupid60107@gmail.com)
-
-<br clear="all">
-<hr class="solid">
-
-
-
-<img src="{{base.url}}/img/Yu-han.jpg" align="left" hspace="50" width="25%">
+<img src="{{base.url}}/img/Yu-han_Wu.jpg" align="left" hspace="50" width="25%">
 #### Yu-Han Wu
 
 Yu-Han is a first-year master student. He graduated from NCYU. He had participated in  the project on gene regulation of color in rice husk. Currently he is working on projects related to image analysis.
@@ -96,41 +76,9 @@ Yu-Han is a first-year master student. He graduated from NCYU. He had participat
 ## [Undergraduate students](#undergraduate-students)
 
 
-<img src="{{base.url}}/img/random.jpg" align="right" hspace="50" width="25%">
-##### Kent Daniel        
- <!-- b08605042@ntu.edu.tw -->
-[Kent](http://kentdaniel.com/) is a third year student who is interested in multiple aspects of bioinformatics.
-For more information please visit his personal website
-
-<i class="fas fa-link"></i>[Kent Daniel](http://kentdaniel.com/)
-<i class="fas fa-at"></i> [Email](mailto:kentdaniel18@gmail.com)
-
-<br clear="all">
-<hr class="solid">
-
-
-<img src="{{base.url}}/img/Zheng-Xiang_Ye.jpg" align="left" hspace="50" width="25%">
-##### Zheng-Xiang Ye
-Zheng-Xiang Ye is a fourth-year student who majors in plant pathology and microbiology, and minors in chemistry. He is passionate about bioinformatics and systems biology. Currently he is dedicated to the biological pathways in bateria that help the promotion of plant growth, developing a model to evaluate the potential bacterial species that can be commercialized as biofertilizers.  
-
-<i class="fas fa-at"></i> [Email](mailto:b07613010@ntu.edu.tw)
-
-<br clear="all">
-<hr class="solid">
-
-
-<img src="{{base.url}}/img/Max_Yuan.jpg" align="right" hspace="50" width="25%">
-#### Max Yuan            
-Shuai(Max) Yuan is a fourth-year student majored in Agronomy. Passionate about biostatistics and bioinformatics, he has been taking a set of classes of the correlating field and plans to go for a further study in USA. He is now working on a computational project building an agent based-model in R language to simulate how microbes spread in the soils to plants' roots.A thesis concerning the project's theme is also under construction.
-
-<i class="fas fa-at"></i> [Email](mailto:b08601028@ntu.edu.tw)
-
-<br clear="all">
-<hr class="solid">
-
 
 <img src="{{base.url}}/img/random.jpg" align="left" hspace="50" width="25%">
-#### Sandy Lin           
+#### Sandy Lin
 Sandy Lin is a third-year student majored in Agronomy. She is passionate about biological statistics and would like to dive into this field in the future.
 
 <i class="fas fa-at"></i> [Email](mailto:b08601017@ntu.edu.tw)
@@ -154,22 +102,17 @@ Sandy Lin is a third-year student majored in Agronomy. She is passionate about b
 
 ## Alumni
 
-<img src="{{site.url}}/img/Yi-Cheng_Lin.JPEG" align="right" hspace="50" width="25%">
-#### Yi-Cheng Lin - 2022
-Master student co-supervised with Professor Yann-Rong Lin. Now, study on the microbial communities in different species of sorghum.
-
-Contact:
-<i class="fas fa-at"></i> [Email](mailto:r08621120@ntu.edu.tw)
-
-<br clear="all">
-<hr class="rounded">
+### Masters students
+#### [Ting-Jung Chang](/personal_page/ting_jung_chang/) - 2023
+#### [Yi-Syun Lai](/personal_page/yi-syun_lai.md/) - 2023
+#### [Yi-Cheng Lin](/personal_page/yi-cheng_lin.md) - 2022
 
 
-<!--
 
-## Stu Dent 2
-- aoeu
-- aoeu
+### Undergraduate students
 
-## Past member
--->
+#### [Zheng-Xiang Ye] - 2022
+Current: Masters student in the GSB program.
+#### [Max Yuan] - 2022
+Current: Masters at UNC Chapel Hill, USA
+#### [Kent Daniel] - 2022
