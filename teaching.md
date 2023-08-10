@@ -69,8 +69,8 @@ Although many of these skill sets are transferable to fields outside of biology,
 ## Seminar - Agron7002 / Agron8002
 
 **Course Objectives**
-- Critical reading and thinking: Read, analyse, evaluate and critique journal articles.
-- Presentation skills: Build confidence in public speaking and deliver an effective presenta- tion.
+- Critical reading and thinking: Read, analyse, evaluate, and critique journal articles.
+- Presentation skills: Build confidence in public speaking and deliver an effective presentation.
 - Communication skills: Participating in the Q&A and discussion sessions, and building a learning community together.
 - Expand your knowledge in biometry and bioinformatics.
 

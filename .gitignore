@@ -1,5 +1,5 @@
 # Ignore
-
+.vscode/**
 .bundle
 .sass-cache
 _site
