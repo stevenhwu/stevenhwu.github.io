@@ -1,5 +1,5 @@
 ---
-title: Sandy Lin
+title: Yu-Han Wu
 layout: page
 hide_footer: true
 hero_height: is-small
@@ -7,12 +7,12 @@ show_sidebar: false
 
 ---
 
-## Sandy Lin
-<img src="{{site.url}}/img/random.jpg" align="left" hspace="10" width="25%">
+## Yu-Han Wu
+<img src="{{site.url}}/img/yu_han_wu.jpg" align="left" hspace="10" width="25%">
 
 
 Contact:
-<i class="fas fa-at"></i> [Email](mailto:b08601017@ntu.edu.tw)
+<i class="fas fa-at"></i> [Email](mailto:jack57648893@gmail.com)
 
 
 <!--
