@@ -22,8 +22,11 @@ Contact:
 <i class="fas fa-link"></i> [NTU_Website](http://www.agron.ntu.edu.tw/cp_n_74935_s_30778_state_F5D336F102ACBC68.html)  
 <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=7nxUa9IAAAAJ&hl=en)  
 <i class="fab fa-github"></i> [Github](https://github.com/stevenhwu)  
-<i class="fab fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-7685-8009)  
+<i class="fab fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-7685-8009)
+<i class="fab fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/steven-wu-0/)
 
+
+<br clear="all">
 <br clear="all">
 
 #### Experience and Education
@@ -59,11 +62,22 @@ hr.rounded {
   border-radius: 5px;
 } -->
 
-## [Master students](#master-students)
 
 
-<img src="{{base.url}}/img/Yu-han_Wu.jpg" align="left" hspace="50" width="25%">
-#### Yu-Han Wu
+<br clear="all">
+<hr class="solid">
+
+
+
+
+<!-- Master -->
+
+
+## [Master's students](#master-students)
+
+
+<img src="{{base.url}}/img/yu_han_wu.jpg" align="left" hspace="50" width="25%">
+#### [Yu-Han Wu](/personal_page/yu_han_wu)
 
 Yu-Han is a first-year master student. He graduated from NCYU. He had participated in  the project on gene regulation of color in rice husk. Currently he is working on projects related to image analysis.
 
@@ -73,12 +87,10 @@ Yu-Han is a first-year master student. He graduated from NCYU. He had participat
 <br clear="all">
 <hr class="solid">
 
-## [Undergraduate students](#undergraduate-students)
 
 
-
-<img src="{{base.url}}/img/random.jpg" align="left" hspace="50" width="25%">
-#### Sandy Lin
+<img src="{{base.url}}/img/random.jpg" align="right" hspace="50" width="25%">
+#### [Sandy Lin](/personal_page/sandy_lin)
 Sandy Lin is a third-year student majored in Agronomy. She is passionate about biological statistics and would like to dive into this field in the future.
 
 <i class="fas fa-at"></i> [Email](mailto:b08601017@ntu.edu.tw)
@@ -87,10 +99,10 @@ Sandy Lin is a third-year student majored in Agronomy. She is passionate about b
 <hr class="solid">
 
 
-<img src="{{base.url}}/img/szi-ting.JPG" align="right" hspace="50" width="25%">
-#### Szu-Ting Tan
+<img src="{{base.url}}/img/szu_ting_tan.jpg" align="left" hspace="50" width="25%">
+#### [Szu-Ting Tan](/personal_page/szu_ting_tan)
 
-[Szu-ting](/personal_page/szu-ting_tan/)  is a third-year student majored in Agronomy.
+Szu-ting is a third-year student majored in Agronomy.
 
 <i class="fas fa-at"></i> [Email](mailto:b08601054@ntu.edu.tw)
 
@@ -99,20 +111,37 @@ Sandy Lin is a third-year student majored in Agronomy. She is passionate about b
 
 
 
+<!-- Undergraduate -->
 
-## Alumni
+## [Undergraduate students](#undergraduate-students)
+
+<img src="{{base.url}}/img/random.jpg" align="right" hspace="50" width="25%">
+#### [Shawn Chen](/personal_page/shawn_chen)
+
+<i class="fas fa-at"></i> [Email](mailto:marcus910423@gmail.com)
+
+
+<br clear="all">
+<hr class="solid">
+
+
+<!-- Alumni -->
+
+## Alumni<a id='#alumni'></a>
+<!-- <a href='#alumni'></a> -->
 
 ### Masters students
-#### [Ting-Jung Chang](/personal_page/ting_jung_chang/) - 2023
-#### [Yi-Syun Lai](/personal_page/yi-syun_lai.md/) - 2023
-#### [Yi-Cheng Lin](/personal_page/yi-cheng_lin.md) - 2022
+#### [Ting-Jung Chang](/alumni/ting_jung_chang) - 2023
+#### [Yi-Syun Lai](/alumni/yi_syun_lai) - 2023
+#### [Yi-Cheng Lin](/alumni/yi_cheng_lin) - 2022
 
 
 
 ### Undergraduate students
 
-#### [Zheng-Xiang Ye] - 2022
-Current: Masters student in the GSB program.
-#### [Max Yuan] - 2022
-Current: Masters at UNC Chapel Hill, USA
-#### [Kent Daniel] - 2022
+#### [Zheng-Xiang Ye](/alumni/zheng_xiang_ye) - 2022
+Current: Master's student in the GSB program.
+#### [Max Yuan](/alumni/max_yuan) - 2022
+Current: Master's at UNC-Chapel Hill, USA
+#### [Kent Daniel](http://kentdaniel.com/) - 2022
+Intern at Ubiik.

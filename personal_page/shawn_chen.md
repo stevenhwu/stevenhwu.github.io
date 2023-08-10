@@ -1,5 +1,5 @@
 ---
-title: Sandy Lin
+title: Shawn Chen
 layout: page
 hide_footer: true
 hero_height: is-small
@@ -7,13 +7,12 @@ show_sidebar: false
 
 ---
 
-## Sandy Lin
+## Shawn Chen
 <img src="{{site.url}}/img/random.jpg" align="left" hspace="10" width="25%">
 
 
 Contact:
-<i class="fas fa-at"></i> [Email](mailto:b08601017@ntu.edu.tw)
-
+<i class="fas fa-at"></i> [Email](mailto:)  
 
 <!--
 <i class="fab fa-github"></i> [Github]()  

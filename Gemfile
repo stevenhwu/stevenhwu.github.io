@@ -7,8 +7,10 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll"
 gem "jekyll-sitemap"
+gem 'jekyll-redirect-from'
 gem "bulma-clean-theme"
 gem "webrick"
+
 
 # gem "minimal-mistakes-jekyll"
 # gem "rails"

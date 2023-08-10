@@ -8,7 +8,7 @@ show_sidebar: false
 ---
 
 ## Ting Jung Chang
-<img src="../../img/Ting-Jung_Chang.jpg" align="left" hspace="10" width="25%">
+<img src="{{site.url}}/alumni/ting_jung_chang.jpg" align="left" hspace="10" width="25%">
 
 Ting-Jung is a first year master student. He has participated in experiments on nitrogen use efficiency in rice, and cultivation of small fruit tomatoes using non-destructive detection in greenhouse. He is now working on image recognition.
 
