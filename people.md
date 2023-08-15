@@ -79,7 +79,7 @@ hr.rounded {
 <img src="{{base.url}}/img/yu_han_wu.jpg" align="left" hspace="50" width="25%">
 #### [Yu-Han Wu](/personal_page/yu_han_wu)
 
-Yu-Han is a first-year master student. He graduated from NCYU. He had participated in  the project on gene regulation of color in rice husk. Currently he is working on projects related to image analysis.
+Yu-Han is a second-year master student. He graduated from NCYU. He had participated in  the project on gene regulation of color in rice husk. Currently he is working on projects related to image analysis.
 
 
 <i class="fas fa-at"></i> [Email](mailto:jack57648893@gmail.com)

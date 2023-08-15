@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Yu-Han Wu
 <img src="{{site.url}}/img/yu_han_wu.jpg" align="left" hspace="10" width="25%">
-
+I am  a second-year master student. I graduated from NCYU. I had participated in the project on gene regulation of color in rice husk. Currently I am working on projects related to image analysis.
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:jack57648893@gmail.com)
@@ -25,10 +25,14 @@ Contact:
 <hr class="solid">
 
 #### Experience and Education
-TODO
+| | | |
+| --- | --- | --- |
+| 2022 - present  | National Taiwan University.  Taiwan |  Master student in Agronomy Biometry |
+| 2017 - 2021  | National ChiaYi University.  Taiwan |  BSc in Agronomy |
+
 
 #### Projects
-TODO
+I am currently engaged in an image analysis project that involves inference and estimation of the area of obscured objects.
 
 #### Skills and qualifications
-TODO
+Python、R
