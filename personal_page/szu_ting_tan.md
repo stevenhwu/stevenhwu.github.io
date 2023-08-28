@@ -1,5 +1,5 @@
 ---
-title: Sandy Lin
+title: Szu-Ting Tan
 layout: page
 hide_footer: true
 hero_height: is-small
@@ -7,12 +7,13 @@ show_sidebar: false
 
 ---
 
-## Sandy Lin
-<img src="{{site.url}}/img/random.jpg" align="left" hspace="10" width="25%">
+## Szu-Ting Tan
+<img src="{{site.url}}/img/szu_ting_tan.jpg" align="left" hspace="10" width="25%">
 
+Szu-ting is a third-year student majored in Agronomy.
 
 Contact:
-<i class="fas fa-at"></i> [Email](mailto:b08601017@ntu.edu.tw)
+<i class="fas fa-at"></i> [Email](mailto:b08601054@ntu.edu.tw)  
 
 
 <!--
@@ -25,7 +26,7 @@ Contact:
 <hr class="solid">
 
 #### Experience and Education
-TODO
+Undergraduate: Department of Agronomy, National Taiwan University
 
 #### Projects
 TODO

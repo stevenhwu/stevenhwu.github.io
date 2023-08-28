@@ -24,6 +24,7 @@ livereload: true
 plugins:
 - github-pages
 - jekyll-sitemap
+- jekyll-redirect-from
 
 
 exclude:

@@ -12,10 +12,6 @@ Primary research topics;
 - Plant and soil microbiome interaction
 - Statistical methods for applied agriculture and field trial.
 - Computational method for evolutionary biology with NGS data.
-- Integrate analysis.
-
-
-Other research interests:
 - Image analysis for plants.
 - Open source software.
 
