@@ -14,6 +14,8 @@ Shuai Yuan is currently pursuing a master's degree in the MS Biostatistics Progr
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:shuaiy@ad.unc.edu)
+<i class="fab fa-github"></i> [Github](https://github.com/Maxwell6321)  
+<i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/max-yuan-7090a4273/)
 <!--
 <i class="fab fa-github"></i> [Github](https://github.com/Maxwell6321)  
 <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/max-yuan-7090a4273/)
