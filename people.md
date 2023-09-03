@@ -142,6 +142,6 @@ Szu-ting is a third-year student majored in Agronomy.
 #### [Zheng-Xiang Ye](/alumni/zheng_xiang_ye) - 2022
 Current: Master's student in the GSB program.
 #### [Max Yuan](/alumni/max_yuan) - 2022
-Current: Master's at UNC-Chapel Hill, USA
+Current: MS Biostatistics student at UNC-Chapel Hill, USA
 #### [Kent Daniel](http://kentdaniel.com/) - 2022
 Intern at Ubiik.
