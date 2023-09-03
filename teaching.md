@@ -35,9 +35,17 @@ Bioinformatics is a rapidly evolving field, and it is actively used in multiple 
 - Next generation sequencing (NGS) analysis: Genome assembly, genome annotation, and metagenomics.
 - Other topics in bioinformatics: image analysis, cloud computing, academic vs industry, ... etc
 
-##### Fall 2021
-##### Fall 2022
-##### Fall 2023
+
+##### [Fall 2023](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=621%20U6390&class=&dpt_code=6010&semester=112-1&lang=EN)
+
+##### [Fall 2022](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=621%20U6390&class=&dpt_code=6010&semester=111-1&lang=EN)
+
+##### [Fall 2021](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=621%20U6390&class=&dpt_code=6010&semester=110-1&lang=EN)
+
+<!--
+http://coursemap.aca.ntu.edu.tw/course_map_all/course.php?code=621+U6390
+
+ -->
 
 <br clear="all">
 <hr class="rounded">
