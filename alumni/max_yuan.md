@@ -27,14 +27,15 @@ Contact:
 
 
 #### Experience and Education
-| | | |  
-| --- | --- | --- |  
-| 2023 - present | Univeristy of Carolina at Chapel Hill, USA | MS Biostatistics |  
-| 2019 - 2023 | National Taiwan University, Taiwan | BSc in Agriculture |  
+
+| | | |
+| --- | --- | --- |
+| 2023 - present | Univeristy of Carolina at Chapel Hill, USA | MS Biostatistics |
+| 2019 - 2023 | National Taiwan University, Taiwan | BSc in Agriculture |
 
 #### Projects
 
-**Bachelor thesis** 
+**Bachelor thesis**
 Agent-Based Modelling to Simulate Microbial Behavior in Soil Communities: Microbial Growth and Movement
 
 **Other Research Projects**
@@ -43,7 +44,7 @@ Estimating Diversity and Entropy Profiles via Discovery Rates of New Species
 
 #### Skills and qualifications
 
-**Programming Languages**  
+**Programming Languages**
 R, SAS, SQL, Python
 
 **Qualifications**

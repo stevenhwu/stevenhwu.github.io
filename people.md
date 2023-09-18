@@ -89,14 +89,6 @@ Yu-Han is a second-year master student. He graduated from NCYU. He had participa
 
 
 
-<img src="{{base.url}}/img/random.jpg" align="right" hspace="50" width="25%">
-#### [Sandy Lin](/personal_page/sandy_lin)
-Sandy Lin is a third-year student majored in Agronomy. She is passionate about biological statistics and would like to dive into this field in the future.
-
-<i class="fas fa-at"></i> [Email](mailto:b08601017@ntu.edu.tw)
-
-<br clear="all">
-<hr class="solid">
 
 
 <img src="{{base.url}}/img/szu_ting_tan.jpg" align="left" hspace="50" width="25%">
@@ -143,5 +135,6 @@ Szu-ting is a third-year student majored in Agronomy.
 Current: Master's student in the GSB program.
 #### [Max Yuan](/alumni/max_yuan) - 2022
 Current: MS Biostatistics student at UNC-Chapel Hill, USA
+#### [Sandy Lin](/alumni/sandy_lin) - 2022
 #### [Kent Daniel](http://kentdaniel.com/) - 2022
 Intern at Ubiik.

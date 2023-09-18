@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Sandy Lin
 <img src="{{site.url}}/img/random.jpg" align="left" hspace="10" width="25%">
-
+Sandy Lin is majored in Agronomy. She is passionate about biological statistics and would like to dive into this field in the future.
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:b08601017@ntu.edu.tw)
