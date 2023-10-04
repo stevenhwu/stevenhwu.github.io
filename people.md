@@ -25,9 +25,7 @@ Contact:
 <i class="fab fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-7685-8009)
 <i class="fab fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/steven-wu-0/)
 
-
-<br clear="all">
-<br clear="all">
+<br clear="all"><br clear="all">
 
 #### Experience and Education
 
@@ -62,60 +60,47 @@ hr.rounded {
   border-radius: 5px;
 } -->
 
-
-
 <br clear="all">
 <hr class="solid">
 
-
-
-
 <!-- Master -->
 
-
-## [Master's students](#master-students)
-
+## [Master's students](#masters-students)
 
 <img src="{{base.url}}/img/yu_han_wu.jpg" align="left" hspace="50" width="25%">
+
 #### [Yu-Han Wu](/personal_page/yu_han_wu)
 
 Yu-Han is a second-year master student. He graduated from NCYU. He had participated in  the project on gene regulation of color in rice husk. Currently he is working on projects related to image analysis.
-
 
 <i class="fas fa-at"></i> [Email](mailto:jack57648893@gmail.com)
 
 <br clear="all">
 <hr class="solid">
 
-
-
-
-
 <img src="{{base.url}}/img/szu_ting_tan.jpg" align="left" hspace="50" width="25%">
+
 #### [Szu-Ting Tan](/personal_page/szu_ting_tan)
 
-Szu-ting is a third-year student majored in Agronomy.
+Szu-ting majored in Agronomy.
 
 <i class="fas fa-at"></i> [Email](mailto:b08601054@ntu.edu.tw)
 
 <br clear="all">
 <hr class="solid">
 
-
-
 <!-- Undergraduate -->
 
 ## [Undergraduate students](#undergraduate-students)
 
 <img src="{{base.url}}/img/random.jpg" align="right" hspace="50" width="25%">
+
 #### [Shawn Chen](/personal_page/shawn_chen)
 
 <i class="fas fa-at"></i> [Email](mailto:marcus910423@gmail.com)
 
-
 <br clear="all">
 <hr class="solid">
-
 
 <!-- Alumni -->
 
@@ -123,18 +108,25 @@ Szu-ting is a third-year student majored in Agronomy.
 <!-- <a href='#alumni'></a> -->
 
 ### Masters students
+
 #### [Ting-Jung Chang](/alumni/ting_jung_chang) - 2023
+
 #### [Yi-Syun Lai](/alumni/yi_syun_lai) - 2023
+
 #### [Yi-Cheng Lin](/alumni/yi_cheng_lin) - 2022
-
-
 
 ### Undergraduate students
 
 #### [Zheng-Xiang Ye](/alumni/zheng_xiang_ye) - 2022
+
 Current: Master's student in the GSB program.
+
 #### [Max Yuan](/alumni/max_yuan) - 2022
+
 Current: MS Biostatistics student at UNC-Chapel Hill, USA
+
 #### [Sandy Lin](/alumni/sandy_lin) - 2022
+
 #### [Kent Daniel](http://kentdaniel.com/) - 2022
+
 Intern at Ubiik.

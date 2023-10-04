@@ -8,8 +8,8 @@ show_sidebar: false
 ---
 
 ## YOUR NAME
-<img src="{{site.url}}/img/random.jpg" align="left" hspace="10" width="25%">
 
+<img src="{{site.url}}/img/random.jpg" align="left" hspace="10" width="25%">
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:)  
@@ -24,10 +24,13 @@ Contact:
 <hr class="solid">
 
 #### Experience and Education
+
 TODO
 
 #### Projects
+
 TODO
 
 #### Skills and qualifications
+
 TODO
