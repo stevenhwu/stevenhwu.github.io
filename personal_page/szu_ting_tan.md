@@ -8,13 +8,13 @@ show_sidebar: false
 ---
 
 ## Szu-Ting Tan
+
 <img src="{{site.url}}/img/szu_ting_tan.jpg" align="left" hspace="10" width="25%">
 
-Szu-ting is a third-year student majored in Agronomy.
+Szu-ting is a student majored in Agronomy.
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:b08601054@ntu.edu.tw)  
-
 
 <!--
 <i class="fab fa-github"></i> [Github]()  
@@ -26,10 +26,13 @@ Contact:
 <hr class="solid">
 
 #### Experience and Education
+
 Undergraduate: Department of Agronomy, National Taiwan University
 
 #### Projects
+
 TODO
 
 #### Skills and qualifications
+
 TODO
