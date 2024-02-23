@@ -13,6 +13,8 @@ hero_height: is-small
 This course will introduce some of the fundamental statistical concepts, methods and their applications to biology and agriculture.
 Topics include descriptive statistics, discrete and continuous random variables, normal distribution, sampling distribution, point estimation, confidence intervals, hypothesis testing, t-test, chi-square test, one-way analysis of variance, correlation and regression, non-parametric statistics.
 
+#### [Spring 2024](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=601%2020020&class=03&dpt_code=6010&lang=EN&semester=112-2)
+
 #### [Spring 2023](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=601%2020020&class=03&dpt_code=6010&lang=EN&semester=111-2)
 
 #### [Spring 2022](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=601%2020020&class=03&dpt_code=6010&lang=EN&semester=110-2)
@@ -57,7 +59,9 @@ This course will introduce a few fundamental and transferable computational skil
 
 Although many of these skill sets are transferable to fields outside of biology, this course will focus on their application to biological data.
 
-#### [Spring 2023](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=621%20U7070&class=&dpt_code=6010&ser_no=20758&lang=EN&semester=111-2)
+#### [Spring 2024](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=621%20U7070&class=&dpt_code=6010&lang=EN&semester=112-2)
+
+#### [Spring 2023](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=621%20U7070&class=&dpt_code=6010&lang=EN&semester=111-2)
 <!-- https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=621%20U7070&semester=111-2&lang=EN -->
 
 <br clear="all">

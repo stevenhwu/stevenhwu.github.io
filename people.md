@@ -67,9 +67,9 @@ hr.rounded {
 
 ## [Master's students](#masters-students)
 
-<img src="{{base.url}}/img/yu_han_wu.jpg" align="left" hspace="50" width="25%">
 
 #### [Yu-Han Wu](/personal_page/yu_han_wu)
+<img src="{{base.url}}/img/yu_han_wu.jpg" alt="Yu-Han Wu" align="left" hspace="50" width="25%">
 
 Yu-Han is a second-year master student. He graduated from NCYU. He had participated in  the project on gene regulation of color in rice husk. Currently he is working on projects related to image analysis.
 
@@ -77,10 +77,11 @@ Yu-Han is a second-year master student. He graduated from NCYU. He had participa
 
 <br clear="all">
 <hr class="solid">
-
-<img src="{{base.url}}/img/szu_ting_tan.jpg" align="left" hspace="50" width="25%">
+<!-- END -->
 
 #### [Szu-Ting Tan](/personal_page/szu_ting_tan)
+
+<img src="{{base.url}}/img/szu_ting_tan.jpg" alt="Szu-Ting Tan" align="right" hspace="50" width="25%">
 
 Szu-ting majored in Agronomy.
 
@@ -88,19 +89,53 @@ Szu-ting majored in Agronomy.
 
 <br clear="all">
 <hr class="solid">
+<!-- END -->
+
+
 
 <!-- Undergraduate -->
 
 ## [Undergraduate students](#undergraduate-students)
 
-<img src="{{base.url}}/img/random.jpg" align="right" hspace="50" width="25%">
 
 #### [Shawn Chen](/personal_page/shawn_chen)
 
+<img src="{{base.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
 <i class="fas fa-at"></i> [Email](mailto:marcus910423@gmail.com)
 
 <br clear="all">
 <hr class="solid">
+<!-- END -->
+
+
+
+#### [Kayleen Howen](/personal_page/kayleen_howen)
+
+<img src="{{base.url}}/img/random.jpg" alt="Name" align="left" hspace="50" width="25%">
+<i class="fas fa-at"></i> [Email](mailto:kayleenhowen@gmail.com)
+
+<br clear="all">
+<hr class="solid">
+<!-- END -->
+
+#### [Jun-Yan Lai](/personal_page/jun_yan_lai)
+<img src="{{base.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
+<i class="fas fa-at"></i> [Email](mailto:b10601043@g.ntu.edu.tw)
+
+<br clear="all">
+<hr class="solid">
+<!-- END -->
+
+#### [Rui-Ting Xie](/personal_page/rui_ting_xie)
+<img src="{{base.url}}/img/random.jpg" alt="Name" align="left" hspace="50" width="25%">
+<i class="fas fa-at"></i> [Email](mailto:b10601006@ntu.edu.tw)
+
+<br clear="all">
+<hr class="solid">
+<!-- END -->
+
+
+
 
 <!-- Alumni -->
 
