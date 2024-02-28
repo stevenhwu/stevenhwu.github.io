@@ -1,4 +1,4 @@
-# Ignore
+## Custom ignore
 .vscode/**
 .bundle
 .sass-cache
