@@ -13,15 +13,15 @@ show_sidebar: false
 
 <!-- ![](img/Wu_website.jpg){:width="128px"} -->
 
-<img src="{{site.url}}/img/Wu_website.jpg" align="left" hspace="10" width="25%">
+<img src="{{site.url}}/img/Wu_website.jpg" alt="Wu" align="left" hspace="10" width="25%">
 
 Steven Wu is an Assistant Professor in the [Department of Agronomy](http://www.agron.ntu.edu.tw/) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/). His primary research interests are developing statistical and computational models to address challenges in agriculture, metagenomics, and evolution. He was the head of bioinformatics at an agriculture startup in California, USA, postdoctoral associate at Arizona State and Duke University. With unique experiences in both academics and industry, he can get the best out of both worlds.
 
 Contact:
-<i class="fas fa-at"></i> [Email](mailto:stevenwu@ntu.edu.tw)  
-<i class="fas fa-link"></i> [NTU Website](http://www.agron.ntu.edu.tw/cp_n_74935_s_30778_state_F5D336F102ACBC68.html)  
+<i class="fas fa-at"></i> [Email](mailto:stevenwu@ntu.edu.tw)
+<i class="fas fa-link"></i> [NTU Website](http://www.agron.ntu.edu.tw/cp_n_74935_s_30778.html)
 <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=7nxUa9IAAAAJ&hl=en)  
-<i class="fab fa-github"></i> [Github](https://github.com/stevenhwu)  
+<i class="fab fa-github"></i> [GitHub](https://github.com/stevenhwu)
 <i class="fab fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-7685-8009)
 <i class="fab fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/steven-wu-0/)
 
@@ -29,13 +29,13 @@ Contact:
 
 #### Experience and Education
 
-| | | |
-| --- | --- | --- |
-| 2017 - 2021 | BioConsortia, Inc. Davis, CA, USA.   |    Head of bioinformatics |
-| 2014 - 2017 | Arizona State University. AZ, USA.  |  Postdoctoral Associate |
-| 2010 - 2014 | Duke University. NC, USA.  |  Postdoctoral Associate |
-| 2006 - 2010 (Eligible) <br> 2014 (Applied for graduation) | University of Auckland. Auckland, New Zealand | Ph.D in biology |
-| 2002 - 2006 | University of Auckland, Auckland, New Zealand | BSc(Hons) in Bioinformatics |
+|                                                           |                                               |                             |
+| --------------------------------------------------------- | --------------------------------------------- | --------------------------- |
+| 2017 - 2021                                               | BioConsortia, Inc. Davis, CA, USA.            | Head of bioinformatics      |
+| 2014 - 2017                                               | Arizona State University. AZ, USA.            | Postdoctoral Associate      |
+| 2010 - 2014                                               | Duke University. NC, USA.                     | Postdoctoral Associate      |
+| 2006 - 2010 (Eligible) <br> 2014 (Applied for graduation) | University of Auckland. Auckland, New Zealand | Ph.D. in biology             |
+| 2002 - 2006                                               | University of Auckland, Auckland, New Zealand | BSc.(Hons) in Bioinformatics |
 
 <!--
 | ---: | :--- | :---: |
