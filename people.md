@@ -83,9 +83,9 @@ Yu-Han is a second-year master student. He graduated from NCYU. He had participa
 
 <img src="{{base.url}}/img/szu_ting_tan.jpg" alt="Szu-Ting Tan" align="right" hspace="50" width="25%">
 
-Szu-ting majored in Agronomy.
+Szu-ting is a first-year student majored in Agronomy. She is passionate about biostatistics and data analysis. Currently working on a new project about maximum likelihood estimator and mixture models.
 
-<i class="fas fa-at"></i> [Email](mailto:b08601054@ntu.edu.tw)
+<i class="fas fa-at"></i> [Email](mailto:r12621203@ntu.edu.tw)
 
 <br clear="all">
 <hr class="solid">
