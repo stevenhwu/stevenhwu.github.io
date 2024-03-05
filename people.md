@@ -69,7 +69,7 @@ hr.rounded {
 
 
 #### [Yu-Han Wu](/personal_page/yu_han_wu)
-<img src="{{base.url}}/img/Yu-Han.jpg" alt="Yu-Han Wu" align="left" hspace="50" width="25%">
+<img src="{{base.url}}/img/yu_han_wu.jpg" alt="Yu-Han Wu" align="left" hspace="50" width="25%">
 
 Yu-Han is a second-year master student. He graduated from NCYU. He had participated in the project on gene regulation of color in rice husk. Currently he is working on projects related to image analysis about leaf overlapping.
 
