@@ -100,8 +100,11 @@ Szu-ting is a first-year student majored in Agronomy. She is passionate about bi
 
 #### [Shawn Chen](/personal_page/shawn_chen)
 
-<img src="{{base.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
-<i class="fas fa-at"></i> [Email](mailto:marcus910423@gmail.com)
+<img src="{{base.url}}/img/shawn_chen.jpg" alt="Shan-En Chen" align="right" hspace="50" width="25%">
+
+Shawn is a senior student. He always sits in front of the computer, seeming like the chair and keyboard have trapped him. If you see him stuck in some trouble, don't worry; he's doing it voluntarily.
+
+<i class="fas fa-at"></i> [Email](mailto:shawn.for.office@gmail.com)
 
 <br clear="all">
 <hr class="solid">
