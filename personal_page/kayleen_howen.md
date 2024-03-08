@@ -22,7 +22,6 @@ Contact:
 <i class="fab fa-linkedin"></i> [LinkedIn]()
 <i class="fab fa-google"></i> [Google Scholar]()  
 -->
-
 <br clear="all">
 <hr class="solid">
 
@@ -31,11 +30,11 @@ Contact:
 > 2021 ~ present | Bsc in Agronomy | National Taiwan Univerisity
 
 > 2021/05 ~ 2021/06 | Biotechnology internship | Taiwan Seed Improvement and Propagation Station
-
+<hr class="solid">
 #### Projects
 
 TODO
-
+<hr class="solid">
 #### Skills and qualifications
 
 Basic HTML, JS, CSS, sql, C++, python, R
