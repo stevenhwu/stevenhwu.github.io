@@ -114,7 +114,10 @@ Shawn is a senior student. He always sits in front of the computer, seeming like
 
 #### [Kayleen Howen](/personal_page/kayleen_howen)
 
-<img src="{{base.url}}/img/random.jpg" alt="Name" align="left" hspace="50" width="25%">
+<img src="{{base.url}}/img/kayleen_howen.jpg" alt="Name" align="left" hspace="50" width="25%">
+
+An Indonesian junior student currently studying agronomy at National Taiwan University. Eager to learn but procastinates too much somtimes.
+
 <i class="fas fa-at"></i> [Email](mailto:kayleenhowen@gmail.com)
 
 <br clear="all">
