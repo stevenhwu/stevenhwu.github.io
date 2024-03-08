@@ -10,10 +10,11 @@ show_sidebar: false
 ## Kayleen Howen
 
 <img src="{{site.url}}/img/kayleen_howen.jpg" align="left" hspace="10" width="25%">
-<br>
+</br>
 An Indonesian junior student currently studying agronomy at National Taiwan University. Eager to learn but procastinates too much somtimes. 
+<br>
 
-Contact:
+#### Contact:
 ><i class="fas fa-at"></i> [Email](mailto:kayleenhowen@gmail.com)
  <br clear="all">
 ><i class="fab fa-github"></i> [Github](mercur0us)  
@@ -27,7 +28,7 @@ Contact:
 
 > 2021 ~ present | Bsc in Agronomy | National Taiwan Univerisity
 
-> 2021/05 ~ 2021/06 | Biotechnology internship | Taiwan Seed Improvement and Propagation Station
+> 2021/06 ~ 2021/07 | Biotechnology internship | Taiwan Seed Improvement and Propagation Station
 
 <hr>
 
