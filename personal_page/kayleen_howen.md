@@ -15,14 +15,12 @@ An Indonesian junior student currently studying agronomy at National Taiwan Univ
 
 Contact:
 ><i class="fas fa-at"></i> [Email](mailto:kayleenhowen@gmail.com)
- 
+ <br clear="all">
 ><i class="fab fa-github"></i> [Github](mercur0us)  
-
 <!--
 <i class="fab fa-linkedin"></i> [LinkedIn]()
 <i class="fab fa-google"></i> [Google Scholar]()  
 -->
-<br clear="all">
 <hr class="solid">
 
 #### Experience and Education
@@ -30,11 +28,15 @@ Contact:
 > 2021 ~ present | Bsc in Agronomy | National Taiwan Univerisity
 
 > 2021/05 ~ 2021/06 | Biotechnology internship | Taiwan Seed Improvement and Propagation Station
-<hr class="solid">
+
+<hr>
+
 #### Projects
 
 TODO
-<hr class="solid">
+
+<hr>
+
 #### Skills and qualifications
 
 Basic HTML, JS, CSS, sql, C++, python, R
