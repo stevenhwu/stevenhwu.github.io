@@ -11,8 +11,8 @@ show_sidebar: false
 
 <img src="/img/chien_en_liao.jpeg" align="left" hspace="10" width="25%">
 
-Contact:
-<i class="fas fa-at"></i> [Email](mailto:liaohabbit@gmail.com)  
+Contact:<br>
+Email:<i class="fas fa-at"></i> [liaohabbit@gmail.com](mailto:liaohabbit@gmail.com)  
 
 <!--
 <i class="fab fa-github"></i> [Github]()  
