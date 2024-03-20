@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Student_template
 
-<img src="{{site.url}}/img/random.jpg" align="left" hspace="10" width="25%">
+<img src="/img/chien_en_liao.jpeg" align="left" hspace="10" width="25%">
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:liaohabbit@gmail.com)  
