@@ -119,7 +119,11 @@ Szu-ting is a first-year student majored in Agronomy. She is passionate about bi
 <!-- END -->
 
 #### [Jun-Yan Lai](/personal_page/jun_yan_lai)
-<img src="{{base.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
+
+<img src="{{base.url}}/img/Jun_Yan_Lai.jpg" alt="Name" align="right" hspace="50" width="25%">
+
+Jun Yan is a student in the Department of Agronomy at National Taiwan University. Currently, he is studying biological information and related computer skills such as statistics in the laboratory. He hopes to complete his bachelor's thesis related to image recognition.
+
 <i class="fas fa-at"></i> [Email](mailto:b10601043@g.ntu.edu.tw)
 
 <br clear="all">
