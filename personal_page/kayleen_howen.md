@@ -9,28 +9,35 @@ show_sidebar: false
 
 ## Kayleen Howen
 
-<img src="{{site.url}}/img/random.jpg" align="left" hspace="10" width="25%">
+<img src="{{site.url}}/img/kayleen_howen.jpg" align="left" hspace="10" width="25%">
+</br>
+An Indonesian junior student currently studying agronomy at National Taiwan University. Eager to learn but procastinates too much somtimes. 
+<br>
 
-Contact:
-<i class="fas fa-at"></i> [Email](mailto:)  
-
+#### Contact:
+><i class="fas fa-at"></i> [Email](mailto:kayleenhowen@gmail.com)
+ <br clear="all">
+><i class="fab fa-github"></i> [Github](mercur0us)  
 <!--
-<i class="fab fa-github"></i> [Github]()  
 <i class="fab fa-linkedin"></i> [LinkedIn]()
 <i class="fab fa-google"></i> [Google Scholar]()  
 -->
-
-<br clear="all">
 <hr class="solid">
 
 #### Experience and Education
 
-TODO
+> 2021 ~ present | Bsc in Agronomy | National Taiwan Univerisity
+
+> 2021/06 ~ 2021/07 | Biotechnology internship | Taiwan Seed Improvement and Propagation Station
+
+<hr>
 
 #### Projects
 
 TODO
 
+<hr>
+
 #### Skills and qualifications
 
-TODO
+Basic HTML, JS, CSS, sql, C++, python, R
