@@ -1,5 +1,5 @@
 ---
-title: Student
+title: YOUR NAME
 layout: page
 hide_footer: true
 hero_height: is-small
@@ -7,7 +7,7 @@ show_sidebar: false
 
 ---
 
-## Student_template
+## YOUR NAME
 
 <img src="{{site.url}}/img/random.jpg" align="left" hspace="10" width="25%">
 
@@ -34,3 +34,4 @@ TODO
 #### Skills and qualifications
 
 TODO
+

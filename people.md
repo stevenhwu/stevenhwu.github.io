@@ -68,16 +68,6 @@ hr.rounded {
 ## [Master's students](#masters-students)
 
 
-#### [Yu-Han Wu](/personal_page/yu_han_wu)
-<img src="{{base.url}}/img/yu_han_wu.jpg" alt="Yu-Han Wu" align="left" hspace="50" width="25%">
-
-Yu-Han is a second-year master student. He graduated from NCYU. He had participated in the project on gene regulation of color in rice husk. Currently he is working on projects related to image analysis about leaf overlapping.
-
-<i class="fas fa-at"></i> [Email](mailto:jack57648893@gmail.com)
-
-<br clear="all">
-<hr class="solid">
-<!-- END -->
 
 #### [Szu-Ting Tan](/personal_page/szu_ting_tan)
 
@@ -92,15 +82,9 @@ Szu-ting is a first-year student majored in Agronomy. She is passionate about bi
 <!-- END -->
 
 
-
-<!-- Undergraduate -->
-
-## [Undergraduate students](#undergraduate-students)
-
-
 #### [Shawn Chen](/personal_page/shawn_chen)
 
-<img src="{{base.url}}/img/shawn_chen.jpg" alt="Shan-En Chen" align="right" hspace="50" width="25%">
+<img src="{{base.url}}/img/shawn_chen.jpg" alt="Shan-En Chen" align="left" hspace="50" width="25%">
 
 Shawn is a senior student. He always sits in front of the computer, seeming like the chair and keyboard have trapped him. If you see him stuck in some trouble, don't worry; he's doing it voluntarily.
 
@@ -109,6 +93,10 @@ Shawn is a senior student. He always sits in front of the computer, seeming like
 <br clear="all">
 <hr class="solid">
 <!-- END -->
+
+<!-- Undergraduate -->
+
+## [Undergraduate students](#undergraduate-students)
 
 
 
@@ -149,6 +137,41 @@ Ruei-Ting is a junior student at National Taiwan University. He's 22 and studyin
 
 
 
+## [Chien-En Liao](/personal_page/chien_en_liao.md)
+
+<img src="{{site.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
+
+<i class="fas fa-at"></i> [Email](mailto:b10601046@ntu.edu.tw)  
+
+<br clear="all">
+<hr class="solid">
+<!-- END -->
+
+
+## [Jonathan Liu](/personal_page/jonathan_liu.md)
+
+<img src="{{site.url}}/img/random.jpg" alt="Name" align="left" hspace="50" width="25%">
+
+<i class="fas fa-at"></i> [Email](mailto:b11601014@ntu.edu.tw)  
+
+<br clear="all">
+<hr class="solid">
+<!-- END -->
+
+
+
+## [Xiang-Lin Liu](/personal_page/xiang_lin_lu.md)
+
+<img src="{{site.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
+
+<i class="fas fa-at"></i> [Email](mailto:b11601013@ntu.edu.tw)  
+
+<br clear="all">
+<hr class="solid">
+<!-- END -->
+
+
+
 
 <!-- Alumni -->
 
@@ -156,6 +179,8 @@ Ruei-Ting is a junior student at National Taiwan University. He's 22 and studyin
 <!-- <a href='#alumni'></a> -->
 
 ### Masters students
+
+#### [Yu-Han Wu](/alumni/yu_han_wu) - 2024
 
 #### [Ting-Jung Chang](/alumni/ting_jung_chang) - 2023
 
