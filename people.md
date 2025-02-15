@@ -114,7 +114,7 @@ An Indonesian junior student currently studying agronomy at National Taiwan Univ
 
 #### [Jun-Yan Lai](/personal_page/jun_yan_lai)
 
-<img src="{{base.url}}/img/Jun_Yan_Lai.jpg" alt="Name" align="right" hspace="50" width="25%">
+<img src="{{base.url}}/img/jun_yan_lai.jpg" alt="Name" align="right" hspace="50" width="25%">
 
 Jun Yan is a student in the Department of Agronomy at National Taiwan University. Currently, he is studying biological information and related computer skills such as statistics in the laboratory. He hopes to complete his bachelor's thesis related to image recognition.
 
@@ -125,7 +125,7 @@ Jun Yan is a student in the Department of Agronomy at National Taiwan University
 <!-- END -->
 
 #### [Rui-Ting Xie](/personal_page/rui_ting_xie)
-<img src="{{base.url}}/img/Rui-Ting Xie.jpg" alt="Name" align="left" hspace="50" width="25%">
+<img src="{{base.url}}/img/rui_ting xie.jpg" alt="Name" align="left" hspace="50" width="25%">
 
 Ruei-Ting is a junior student at National Taiwan University. He's 22 and studying agronomy. The name on his passport was Ruei Ting Hsieh, but it seems like it's too hard to remember or something, so it's shown as Rui Ting Xie on the website ("Hsieh" is really hard to remember; he even spells it wrong himself sometimes). Now, he's getting nearly killed by his bachelor's thesis on protein sequences and organic chemistry class.
 
