@@ -13,7 +13,7 @@ show_sidebar: false
 
 <!-- ![](img/Wu_website.jpg){:width="128px"} -->
 
-<img src="{{site.url}}/img/Wu_website.jpg" alt="Wu" align="left" hspace="10" width="25%">
+<img src="{{site.url}}/img/steven_wu.jpg" alt="Wu" align="left" hspace="10" width="25%">
 
 Steven Wu is an Assistant Professor in the [Department of Agronomy](http://www.agron.ntu.edu.tw/) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/). His primary research interests are developing statistical and computational models to address challenges in agriculture, metagenomics, and evolution. He was the head of bioinformatics at an agriculture startup in California, USA, postdoctoral associate at Arizona State and Duke University. With unique experiences in both academics and industry, he can get the best out of both worlds.
 
