@@ -15,7 +15,7 @@ fixed_navbar: top
 hide_footer: true
 # footer_menu: footer_menu
 # hero_height: is-small
-
+cookie_policy: /cookie-policy/
 
 markdown: kramdown
 highlighter: rouge
