@@ -14,6 +14,8 @@ Well, since someone actually clicked in, I'll tell you more. You can call me Tim
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:b10601006@ntu.edu.tw)  
+<i class="fa-brands fa-discord"></i> [Discord](discordapp.com/users/810902904071651428)
+<i class="fa-brands fa-instagram"></i> [Instagram](https://www.instagram.com/godtim_hsieh?igsh=MWI3NGo3ZDJldHM5YQ%3D%3D&utm_source=qr)
 
 <!--
 <i class="fab fa-github"></i> [Github]()  
@@ -29,11 +31,13 @@ Contact:
 | | | |
 | --- | --- | --- |
 | 2021 - present  | National Taiwan University.  Taiwan |  University student in Agronomy |
+| 2022/08 | Hrong-Shee Golf Course | Turf management internship |
+| 2022/07 | Taiwan Seed Improvement and Propagation Station | Biotechnology internship |
 
 #### Projects
 
-The bachelor's thesis is about finding amino acid sequences that are different but have similar structures.
+The project is about finding amino acid sequences that are different but have similar structures.
 
 #### Skills and qualifications
 
-R, Python
+R, Python, Excel
