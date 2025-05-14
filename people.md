@@ -127,9 +127,11 @@ Jun Yan is a student in the Department of Agronomy at National Taiwan University
 #### [Rui-Ting Xie](/personal_page/rui_ting_xie)
 <img src="{{base.url}}/img/rui_ting_xie.jpg" alt="Name" align="left" hspace="50" width="25%">
 
-Ruei-Ting is a junior student at National Taiwan University. He's 22 and studying agronomy. The name on his passport was Ruei Ting Hsieh, but it seems like it's too hard to remember or something, so it's shown as Rui Ting Xie on the website ("Hsieh" is really hard to remember; he even spells it wrong himself sometimes). Now, he's getting nearly killed by his bachelor's thesis on protein sequences and organic chemistry class.
+Ruei-Ting is a	senior student at National Taiwan University. He's 23 and studying agronomy. The name on his passport was Ruei Ting Hsieh, but it seems like it's too hard to remember or something, so it's shown as Rui Ting Xie on the website ("Hsieh" is really hard to remember; he even spells it wrong himself sometimes). Now, he's getting nearly killed by his project on protein sequences and excel class.
 
 <i class="fas fa-at"></i> [Email](mailto:b10601006@ntu.edu.tw)
+<i class="fa-brands fa-discord"></i> [Discord](discordapp.com/users/810902904071651428)
+<i class="fa-brands fa-instagram"></i> [Instagram](https://www.instagram.com/godtim_hsieh?igsh=MWI3NGo3ZDJldHM5YQ%3D%3D&utm_source=qr)
 
 <br clear="all">
 <hr class="solid">
