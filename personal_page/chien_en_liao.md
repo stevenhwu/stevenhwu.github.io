@@ -32,7 +32,7 @@ Github:
 
 > 2023/06 ~ 2023/08 |  Practicum | Hualien District Agricultural Research and Extension Station, Ministry of Agriculture
 
->2020 ~ 2022 | BS in Life Science | National Tsing Hua University
+> 2020 ~ 2022 | BS in Life Science | National Tsing Hua University
 
 
 
