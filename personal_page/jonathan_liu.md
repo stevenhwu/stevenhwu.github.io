@@ -1,5 +1,5 @@
 ---
-title: YOUR NAME
+title: Jonathan Liu
 layout: page
 hide_footer: true
 hero_height: is-small
@@ -7,12 +7,12 @@ show_sidebar: false
 
 ---
 
-## YOUR NAME
+## Jonathan Liu
 
 <img src="{{site.url}}/img/random.jpg" align="left" hspace="10" width="25%">
 
 Contact:
-<i class="fas fa-at"></i> [Email](mailto:)  
+<i class="fas fa-at"></i> [Email](mailto:b11601014@ntu.edu.tw)  
 
 <!--
 <i class="fab fa-github"></i> [Github]()  
@@ -34,3 +34,4 @@ TODO
 #### Skills and qualifications
 
 TODO
+

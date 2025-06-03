@@ -1,7 +1,7 @@
 # theme: jekyll-theme-slate
 # theme: minimal-mistakes-jekyll
 #theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 title: ""
 description: ""
 author: Steven Wu
@@ -15,7 +15,7 @@ fixed_navbar: top
 hide_footer: true
 # footer_menu: footer_menu
 # hero_height: is-small
-
+cookie_policy: /cookie-policy/
 
 markdown: kramdown
 highlighter: rouge
