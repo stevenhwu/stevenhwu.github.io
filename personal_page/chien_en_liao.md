@@ -43,4 +43,3 @@ TODO
 #### Skills and qualifications
 
 Dash, <i class="fa-brands fa-python"></i> Python, <i class="fa-brands fa-html5"></i>HTML, <i class="fa-brands fa-css"></i>CSS,  R
-
