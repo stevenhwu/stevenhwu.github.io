@@ -10,15 +10,9 @@ show_sidebar: false
 ## Jun-Yan Lai
 
 <img src="{{site.url}}/img/Jun_Yan_Lai.jpg" align="left" hspace="10" width="25%">
-I am Lai Jun Yan, a student majoring in Agronomy at National Taiwan University. I have a profound interest in the growth, development, and improvement of plants, which is one of the reasons I chose to study Agronomy.
+During the second semester of my junior year, I joined Steven’s lab, hoping to practice my English while advancing in the field of biostatistics. Through this experience, I gained insight into how a research lab operates, learned about senior students’ projects, and understood the effort required to become a graduate student as well as my own areas for improvement.
 
-In my spare time, I enjoy playing table tennis. This sport not only helps me relax but also enhances my reflexes and concentration.
-
-Additionally, I have a keen interest in learning programming. Although I am not very proficient with computers, I am eager to learn. I often seek assistance from senior students to address my programming queries, and I am eager to supplement my current skill set in the laboratory environment.
-
-Furthermore, I am aware of my shortcomings in English communication and expression. Hence, I am keen on practicing speaking English with teachers to improve my communication and language skills.
-
-I believe that the learning environment in the laboratory will provide me with ample opportunities for growth and improvement. I am committed to continually advancing and preparing myself for future academic and professional endeavors. Thank you for your attention and support.
+In my senior year, Steven supervised my two seminar. Through continuous presentations and discussions, I gradually became more proficient in reading scientific papers and effectively delivering presentations. Over the one and a half years under Steven’s guidance, besides academic knowledge, what I learned most was life philosophy. Steven always approaches everything with optimism. He led us in decorating the lab for Halloween and even hosted the Christmas party. His positive attitude and the daily interactions with lab members have been my greatest gain from the lab experience.
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:b10601043@g.ntu.edu.tw)  
@@ -36,11 +30,18 @@ Contact:
 
 | | | |
 | --- | --- | --- |
-| 2021 - present  | National Taiwan University.  Taiwan |  University student in Agronomy |
+| 2021 - 2025  | National Taiwan University.  Taiwan |  University student in Agronomy |
+| 2023.7 - 2023.8  | Academia Sinica.  Taiwan |  Summer Intern in Biodiversity Research Center |
+| 2024.6 - 2024.8  | Centre for research in agricultural Genomics.  Spain |  Summer Intern in Plant Synthetic Biology and Metabolic Engineering |
+| 2025 - present  | National Yang Ming Chiao Tung University.  Taiwan |  Graduate student in Institute of Public Health |
 
 #### Projects
 
-My bachelor's thesis is about image analysis. I aim to collect physiological information about crops through image recognition. I am working towards this goal.
+_**Academia Sinica**_ : Organized angiosperm genome data and analyzed similarities and differences in phylogenetic relationships of chloroplast and mitochondrial genomes.
+
+_**Centre for Research in Agricultural Genomics**_ : Assisted in setting up a biotechnology website and analyzed algal genome data.
+
+_**Laboratory**_ : Experienced in managing non-relational databases.
 
 #### Skills and qualifications
 

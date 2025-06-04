@@ -116,7 +116,7 @@ An Indonesian junior student currently studying agronomy at National Taiwan Univ
 
 <img src="{{base.url}}/img/jun_yan_lai.jpg" alt="Name" align="right" hspace="50" width="25%">
 
-Jun Yan is a student in the Department of Agronomy at National Taiwan University. Currently, he is studying biological information and related computer skills such as statistics in the laboratory. He hopes to complete his bachelor's thesis related to image recognition.
+Jun Yan is currently a senior student majoring in Agronomy at National Taiwan University, preparing to enter the Biostatistics and Data Science Group at the Institute of Public Health, National Yang Ming Chiao Tung University. He hope to pursue a career in the field of data analysis.
 
 <i class="fas fa-at"></i> [Email](mailto:b10601043@g.ntu.edu.tw)
 
