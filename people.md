@@ -141,7 +141,9 @@ Ruei-Ting is a	senior student at National Taiwan University. He's 23 and studyin
 
 ## [Chien-En Liao](/personal_page/chien_en_liao.md)
 
-<img src="{{site.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
+<img src="{{site.url}}/img/chien_en_liao.jpeg" alt="Name" align="right" hspace="50" width="25%">
+
+Undergraduate student in the Department of Agronomy, National Taiwan University. Involved in the development of interactive web interfaces with Dash, microbial movement modeling, and phylogenetic analysis of fungal genus Mycena in Taiwan.
 
 <i class="fas fa-at"></i> [Email](mailto:b10601046@ntu.edu.tw)  
 
