@@ -36,7 +36,7 @@ An Indonesian graduate who studied Agronomy at National Taiwan University. Eager
 
 #### Projects
 
-TODO
+Two threshold group Otsu project: building upon a senior's thesis about using the otsu algorithm to segment plant images but expanded to include the whole dataset in the calculation as opposed to calculating one picture at at a time. In my project, I build upon the algorithm to find 2 thresholds for each image. 
 
 <hr>
 
