@@ -11,7 +11,7 @@ show_sidebar: false
 
 <img src="{{site.url}}/img/kayleen_howen.jpg" align="left" hspace="10" width="25%">
 </br>
-An Indonesian junior student currently studying agronomy at National Taiwan University. Eager to learn but procastinates too much somtimes. 
+An Indonesian graduate who studied Agronomy at National Taiwan University. Eager to learn but procastinates too much somtimes. Still trying to figure out what to do with my life. 
 <br>
 
 #### Contact:
@@ -30,11 +30,13 @@ An Indonesian junior student currently studying agronomy at National Taiwan Univ
 
 > 2021/06 ~ 2021/07 | Biotechnology internship | Taiwan Seed Improvement and Propagation Station
 
+> 2025/06 ~ Now | Platform engineer intern | Pegatron 
+
 <hr>
 
 #### Projects
 
-TODO
+Two threshold group Otsu project: building upon a senior's thesis about using the otsu algorithm to segment plant images but expanded to include the whole dataset in the calculation as opposed to calculating one picture at at a time. In my project, I build upon the algorithm to find 2 thresholds for each image. 
 
 <hr>
 
