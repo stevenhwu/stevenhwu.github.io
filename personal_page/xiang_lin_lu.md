@@ -23,13 +23,11 @@ Contact:
 <hr class="solid">
 
 #### Experience and Education
-
-| Time                     | Institute                                            | Position                                                                 |
-|--------------------------|------------------------------------------------------|----------------------------------------------|
-
-| 2022 – present           | National Taiwan University, Taiwan                   | University student in Agronomy               |
-| 2025.6 - 2025.8          | The Royal Botanic Gardens Kew, United Kingdom        | Internship in Science                        |
-| 2024.7 - 2024.8          | Academia Sinica, Taiwan                              | Internship in Biodiversity Research Center   |
+| | | |
+| --- | --- | --- |
+| 2022 – present  | National Taiwan University, Taiwan |  University student in Agronomy |
+| 2025.6 - 2025.8 | The Royal Botanic Gardens Kew, United Kingdom | Internship in Science |
+| 2024.7 - 2024.8 | Academia Sinica, Taiwan | Internship in Biodiversity Research Center |
 
 #### Projects
 
