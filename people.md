@@ -152,9 +152,11 @@ Undergraduate student in the Department of Agronomy, National Taiwan University.
 <!-- END -->
 
 
-## [Jonathan Liu](/personal_page/jonathan_liu.md)
+## [Jonathan Liew](/personal_page/jonathan_liew.md)
 
-<img src="{{site.url}}/img/random.jpg" alt="Name" align="left" hspace="50" width="25%">
+<img src="{{site.url}}/img/jonathan_liew.jpg" alt="Name" align="left" hspace="50" width="25%">
+
+Undergraduate student in the Department of Agronomy, National Taiwan University. Currently focusing on a pathway project that uses semi-automatic query features to extract and connect the metabolic pathways from a list of enzymes.
 
 <i class="fas fa-at"></i> [Email](mailto:b11601014@ntu.edu.tw)  
 
