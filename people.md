@@ -167,8 +167,10 @@ Undergraduate student in the Department of Agronomy, National Taiwan University.
 ## [Xiang-Lin Liu](/personal_page/xiang_lin_lu.md)
 
 <img src="{{site.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
+Xiang-Lin is a junier student at NTU. A shy newbie in this lab but willing to learn. She's now enjoying her summer internship at RBG Kew. Let's see what she will bring back from England.
 
-<i class="fas fa-at"></i> [Email](mailto:b11601013@ntu.edu.tw)  
+<i class="fas fa-at"></i> [Email](mailto:b11601013@ntu.edu.tw) 
+<i class="fab fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/%E6%B9%98%E7%90%B3-%E5%91%82-b597a2244/) 
 
 <br clear="all">
 <hr class="solid">
