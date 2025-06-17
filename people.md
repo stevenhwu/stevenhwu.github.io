@@ -71,9 +71,9 @@ hr.rounded {
 
 #### [Szu-Ting Tan](/personal_page/szu_ting_tan)
 
-<img src="{{base.url}}/img/szu_ting_tan.jpg" alt="Szu-Ting Tan" align="right" hspace="50" width="25%">
+<img src="{{base.url}}/img/szu_ting_tan.png" alt="Szu-Ting Tan" align="right" hspace="50" width="25%">
 
-Szu-ting is a first-year student majored in Agronomy. She is passionate about biostatistics and data analysis. Currently working on a new project about maximum likelihood estimator and mixture models.
+Szu-Ting is a second-year master's student. Currently working on microbiome analysis.Ready to be kicked out of the lab.
 
 <i class="fas fa-at"></i> [Email](mailto:r12621203@ntu.edu.tw)
 
