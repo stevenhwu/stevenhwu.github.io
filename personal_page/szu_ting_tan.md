@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Szu-Ting Tan
 
-<img src="{{site.url}}/img/szu_ting_tan.png" align="left" hspace="10" width="25%">
+<img src="{{site.url}}/img/szu_ting_tan.jpg" align="left" hspace="10" width="25%">
 
 Szu-Ting is a second-year master's student. Currently working on a new project about maximum likelihood estimator and mixture models.
 Ready to be kicked out of the lab. Timmy is my new turtle bag, and we have lunch together every day at NTU. Say hi to us if we cross paths!. 🐢

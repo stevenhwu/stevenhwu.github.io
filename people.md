@@ -71,7 +71,7 @@ hr.rounded {
 
 #### [Szu-Ting Tan](/personal_page/szu_ting_tan)
 
-<img src="{{base.url}}/img/szu_ting_tan.png" alt="Szu-Ting Tan" align="right" hspace="50" width="25%">
+<img src="{{base.url}}/img/szu_ting_tan.jpg" alt="Szu-Ting Tan" align="right" hspace="50" width="25%">
 
 Szu-Ting is a second-year master's student. Currently working on microbiome analysis.Ready to be kicked out of the lab.
 
