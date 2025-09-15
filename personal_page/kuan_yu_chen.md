@@ -1,5 +1,5 @@
 ---
-title: Sandy Lin
+title: Kuan Yu Chen
 layout: page
 hide_footer: true
 hero_height: is-small
@@ -7,13 +7,12 @@ show_sidebar: false
 
 ---
 
-## Sandy Lin
+## Kuan Yu Chen
 
 <img src="{{site.url}}/img/random.jpg" align="left" hspace="10" width="25%">
-Sandy Lin is majored in Agronomy. She is passionate about biological statistics and would like to dive into this field in the future.
 
 Contact:
-<i class="fas fa-at"></i> [Email](mailto:b08601017@ntu.edu.tw)
+<i class="fas fa-at"></i> [Email](mailto:b10601035@ntu.edu.tw)  
 
 <!--
 <i class="fab fa-github"></i> [Github]()  
@@ -34,3 +33,4 @@ TODO
 #### Skills and qualifications
 
 TODO
+

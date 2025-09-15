@@ -20,8 +20,7 @@ Contact:
 <i class="fab fa-google"></i> [Google Scholar]()  
 -->
 
-<br clear="all">
-<hr class="solid">
+{% include divider.html %}
 
 #### Experience and Education
 

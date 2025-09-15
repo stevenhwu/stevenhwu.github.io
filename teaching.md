@@ -14,7 +14,7 @@ This introductory course provides a foundation in statistical concepts, methods,
 
 Topics will include descriptive statistics, basic probability, discrete and continuous distribution, sampling distribution, point estimation, confidence intervals, hypothesis testing, one-way analysis of variance, correlation, linear regression analysis, and chi-square test.
 
-#### [Spring 2025](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=601%2020020&class=03&dpt_code=6010&lang=EN&semester=113-2)
+#### [Spring 2025](https://course.ntu.edu.tw/en/courses/113-2/26324)
 
 #### [Spring 2024](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=601%2020020&class=03&dpt_code=6010&lang=EN&semester=112-2)
 
@@ -39,7 +39,9 @@ Bioinformatics is a rapidly evolving field, and it is actively used in multiple 
 - Next generation sequencing (NGS) analysis: Genome assembly, genome annotation, and metagenomics.
 - Other topics in bioinformatics: image analysis, cloud computing, academic vs industry, ... etc
 
-##### [Fall 2024](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=621%20U6390&class=&dpt_code=6010&lang=EN&semester=113-1)
+##### [Fall 2025](https://course.ntu.edu.tw/en/courses/114-1/32429)
+
+##### [Fall 2024](https://course.ntu.edu.tw/en/courses/113-1/82041), [Old link](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=621%20U6390&class=&dpt_code=6010&lang=EN&semester=113-1)
 
 ##### [Fall 2023](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=621%20U6390&class=&dpt_code=6010&lang=EN&semester=112-1)
 <!-- [(CH)](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=621%20U6390&class=&dpt_code=6010&semester=110-1&lang=CH) -->
