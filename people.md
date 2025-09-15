@@ -123,6 +123,15 @@ Undergraduate student in the Department of Agronomy, National Taiwan University.
 {% include divider.html %}
 
 
+#### [Kuan-Yu Chen](/personal_page/kuan_yu_chen.md)
+
+<img src="{{site.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
+
+<i class="fas fa-at"></i> [Email](mailto:b10601035@ntu.edu.tw)  
+
+{% include divider.html %}
+
+
 
 
 <!-- Alumni -->

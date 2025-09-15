@@ -1,5 +1,5 @@
 ---
-title: Rex Wang
+title: Kuan Yu Chen
 layout: page
 hide_footer: true
 hero_height: is-small
@@ -7,12 +7,12 @@ show_sidebar: false
 
 ---
 
-## Rex Wang
+## Kuan Yu Chen
 
 <img src="{{site.url}}/img/random.jpg" align="left" hspace="10" width="25%">
 
 Contact:
-<i class="fas fa-at"></i> [Email](mailto:rexwang1229@gmail.com)  
+<i class="fas fa-at"></i> [Email](mailto:b10601035@ntu.edu.tw)  
 
 <!--
 <i class="fab fa-github"></i> [Github]()  
