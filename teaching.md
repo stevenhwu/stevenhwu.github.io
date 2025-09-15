@@ -31,10 +31,8 @@ Topics will include descriptive statistics, basic probability, discrete and cont
 
 Bioinformatics is a rapidly evolving field, and it is actively used in multiple areas of researches. This interdisciplinary field integrates biology, statistics, and computer science to analyse and interpret biological data. The course covers the most fundamental concepts, methods, and tools used in bioinformatics. Students will be able to use these bioinformatics tools to solve the problems for their own researches.
 
-**Modules in this course**
-
+**Modules in this course:**
 - Basic bioinformatics skills: basic statistics and programming.<!-- slide -->
-
 - Molecular evolution: Multiple sequence alignment and phylogenetic analysis.
 - Next generation sequencing (NGS) analysis: Genome assembly, genome annotation, and metagenomics.
 - Other topics in bioinformatics: image analysis, cloud computing, academic vs industry, ... etc
