@@ -12,8 +12,7 @@ show_sidebar: false
 ## PI - Steven H. Wu
 
 <!-- ![](img/Wu_website.jpg){:width="128px"} -->
-
-<img src="{{site.url}}/img/steven_wu.jpg" alt="Wu" align="left" hspace="10" width="25%">
+<img src="{{base.url}}/img/steven_wu.jpg" alt="Wu" align="left" hspace="10" width="25%">
 
 Steven Wu is an Assistant Professor in the [Department of Agronomy](http://www.agron.ntu.edu.tw/) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/). His primary research interests are developing statistical and computational models to address challenges in agriculture, metagenomics, and evolution. He was the head of bioinformatics at an agriculture startup in California, USA, postdoctoral associate at Arizona State and Duke University. With unique experiences in both academics and industry, he can get the best out of both worlds.
 
@@ -29,11 +28,11 @@ Contact:
 
 #### Experience and Education
 
-|                                                           |                                               |                             |
-| --------------------------------------------------------- | --------------------------------------------- | --------------------------- |
-| 2017 - 2021                                               | BioConsortia, Inc. Davis, CA, USA.            | Head of bioinformatics      |
-| 2014 - 2017                                               | Arizona State University. AZ, USA.            | Postdoctoral Associate      |
-| 2010 - 2014                                               | Duke University. NC, USA.                     | Postdoctoral Associate      |
+|                                                           |                                               |                              |
+| --------------------------------------------------------- | --------------------------------------------- | ---------------------------- |
+| 2017 - 2021                                               | BioConsortia, Inc. Davis, CA, USA.            | Head of bioinformatics       |
+| 2014 - 2017                                               | Arizona State University. AZ, USA.            | Postdoctoral Associate       |
+| 2010 - 2014                                               | Duke University. NC, USA.                     | Postdoctoral Associate       |
 | 2006 - 2010 (Eligible) <br> 2014 (Applied for graduation) | University of Auckland. Auckland, New Zealand | Ph.D. in biology             |
 | 2002 - 2006                                               | University of Auckland, Auckland, New Zealand | BSc.(Hons) in Bioinformatics |
 
@@ -63,27 +62,14 @@ hr.rounded {
 <br clear="all">
 <hr class="solid">
 
-<!-- Master -->
 
+
+
+<!-- Master -->
 ## [Master's students](#masters-students)
 
 
-
-#### [Szu-Ting Tan](/personal_page/szu_ting_tan)
-
-<img src="{{base.url}}/img/szu_ting_tan.jpg" alt="Szu-Ting Tan" align="right" hspace="50" width="25%">
-
-Szu-Ting is a second-year master's student. Currently working on microbiome analysis.Ready to be kicked out of the lab.
-
-<i class="fas fa-at"></i> [Email](mailto:r12621203@ntu.edu.tw)
-
-<br clear="all">
-<hr class="solid">
-<!-- END -->
-
-
 #### [Shawn Chen](/personal_page/shawn_chen)
-
 <img src="{{base.url}}/img/shawn_chen.jpg" alt="Shan-En Chen" align="left" hspace="50" width="25%">
 
 Shawn is a senior student. He always sits in front of the computer, seeming like the chair and keyboard have trapped him. If you see him stuck in some trouble, don't worry; he's doing it voluntarily.
@@ -94,40 +80,11 @@ Shawn is a senior student. He always sits in front of the computer, seeming like
 <hr class="solid">
 <!-- END -->
 
-<!-- Undergraduate -->
-
-## [Undergraduate students](#undergraduate-students)
-
-
-
-#### [Kayleen Howen](/personal_page/kayleen_howen)
-
-<img src="{{base.url}}/img/kayleen_howen.jpg" alt="Name" align="left" hspace="50" width="25%">
-
-An Indonesian junior student currently studying agronomy at National Taiwan University. Eager to learn but procastinates too much somtimes.
-
-<i class="fas fa-at"></i> [Email](mailto:kayleenhowen@gmail.com)
-
-<br clear="all">
-<hr class="solid">
-<!-- END -->
-
-#### [Jun-Yan Lai](/personal_page/jun_yan_lai)
-
-<img src="{{base.url}}/img/jun_yan_lai.jpg" alt="Name" align="right" hspace="50" width="25%">
-
-Jun Yan is currently a senior student majoring in Agronomy at National Taiwan University, preparing to enter the Biostatistics and Data Science Group at the Institute of Public Health, National Yang Ming Chiao Tung University. He hope to pursue a career in the field of data analysis.
-
-<i class="fas fa-at"></i> [Email](mailto:b10601043@g.ntu.edu.tw)
-
-<br clear="all">
-<hr class="solid">
-<!-- END -->
 
 #### [Rui-Ting Xie](/personal_page/rui_ting_xie)
-<img src="{{base.url}}/img/rui_ting_xie.jpg" alt="Name" align="left" hspace="50" width="25%">
+<img src="{{base.url}}/img/rui_ting_xie.jpg" alt="Name" align="right" hspace="50" width="25%">
 
-Ruei-Ting is a	senior student at National Taiwan University. He's 23 and studying agronomy. The name on his passport was Ruei Ting Hsieh, but it seems like it's too hard to remember or something, so it's shown as Rui Ting Xie on the website ("Hsieh" is really hard to remember; he even spells it wrong himself sometimes). Now, he's getting nearly killed by his project on protein sequences and excel class.
+Ruei-Ting is a senior student at National Taiwan University. He's 23 and studying agronomy. The name on his passport was Ruei Ting Hsieh, but it seems like it's too hard to remember or something, so it's shown as Rui Ting Xie on the website ("Hsieh" is really hard to remember; he even spells it wrong himself sometimes). Now, he's getting nearly killed by his project on protein sequences and excel class.
 
 <i class="fas fa-at"></i> [Email](mailto:b10601006@ntu.edu.tw)
 <i class="fa-brands fa-discord"></i> [Discord](discordapp.com/users/810902904071651428)
@@ -138,21 +95,32 @@ Ruei-Ting is a	senior student at National Taiwan University. He's 23 and studyin
 <!-- END -->
 
 
+#### [Rex Wang](/personal_page/rex_wang)
+<img src="{{base.url}}/img/random.jpg" alt="Name" align="left" hspace="50" width="25%">
 
-## [Chien-En Liao](/personal_page/chien_en_liao.md)
+<i class="fas fa-at"></i> [Email](mailto:rexwang1229@gmail.com)
 
-<img src="{{site.url}}/img/chien_en_liao.jpeg" alt="Name" align="right" hspace="50" width="25%">
+<br clear="all">
+<hr class="solid"> <!-- END -->
 
-Undergraduate student in the Department of Agronomy, National Taiwan University. Involved in the development of interactive web interfaces with Dash, microbial movement modeling, and phylogenetic analysis of fungal genus Mycena in Taiwan.
 
-<i class="fas fa-at"></i> [Email](mailto:b10601046@ntu.edu.tw)  
+
+<!-- Undergraduate -->
+## [Undergraduate students](#undergraduate-students)
+
+
+#### [Xiang-Lin Liu](/personal_page/xiang_lin_lu.md)
+
+<img src="{{site.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
+
+<i class="fas fa-at"></i> [Email](mailto:b11601013@ntu.edu.tw)  
 
 <br clear="all">
 <hr class="solid">
 <!-- END -->
 
 
-## [Jonathan Liew](/personal_page/jonathan_liew.md)
+#### [Jonathan Liew](/personal_page/jonathan_liew.md)
 
 <img src="{{site.url}}/img/jonathan_liew.jpg" alt="Name" align="left" hspace="50" width="25%">
 
@@ -166,25 +134,14 @@ Undergraduate student in the Department of Agronomy, National Taiwan University.
 
 
 
-## [Xiang-Lin Liu](/personal_page/xiang_lin_lu.md)
-
-<img src="{{site.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
-
-<i class="fas fa-at"></i> [Email](mailto:b11601013@ntu.edu.tw)  
-
-<br clear="all">
-<hr class="solid">
-<!-- END -->
-
-
-
 
 <!-- Alumni -->
-
 ## Alumni<a id='#alumni'></a>
 <!-- <a href='#alumni'></a> -->
 
 ### Masters students
+
+#### [Szu-Ting Tan](/alumni/szu_ting_tan) - 2025
 
 #### [Yu-Han Wu](/alumni/yu_han_wu) - 2024
 
@@ -196,16 +153,16 @@ Undergraduate student in the Department of Agronomy, National Taiwan University.
 
 ### Undergraduate students
 
+#### [Jun-Yan Lai](/alumni/jun_yan_lai) - 2025
+
+#### [Kayleen Howen](/alumni/kayleen_howen) - 2025
+
+#### [Chien-En Liao](/alumni/chien_en_liao) - 2025
+
 #### [Zheng-Xiang Ye](/alumni/zheng_xiang_ye) - 2022
 
-Current: Master's student in the GSB program.
-
 #### [Max Yuan](/alumni/max_yuan) - 2022
-
-Current: MS Biostatistics student at UNC-Chapel Hill, USA
 
 #### [Sandy Lin](/alumni/sandy_lin) - 2022
 
 #### [Kent Daniel](http://kentdaniel.com/) - 2022
-
-Intern at Ubiik.

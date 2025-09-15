@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Chien-En Liao
 
-<img src="{{site.url}}/img/chien_en_liao.jpeg" align="left" hspace="10" width="25%">
+<img src="{{site.url}}/alumni/chien_en_liao.jpeg" align="left" hspace="10" width="25%">
 
 Undergraduate student in the Department of Agronomy, National Taiwan University. Involved in the development of interactive web interfaces with Dash, microbial movement modeling, and phylogenetic analysis of fungal genus Mycena in Taiwan.
 
