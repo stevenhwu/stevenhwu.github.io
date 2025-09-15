@@ -59,8 +59,7 @@ hr.rounded {
   border-radius: 5px;
 } -->
 
-<br clear="all">
-<hr class="solid">
+{% include divider.html %}
 
 
 
@@ -76,9 +75,7 @@ Shawn is a senior student. He always sits in front of the computer, seeming like
 
 <i class="fas fa-at"></i> [Email](mailto:shawn.for.office@gmail.com)
 
-<br clear="all">
-<hr class="solid">
-<!-- END -->
+{% include divider.html %}
 
 
 #### [Rui-Ting Xie](/personal_page/rui_ting_xie)
@@ -90,9 +87,7 @@ Ruei-Ting is a senior student at National Taiwan University. He's 23 and studyin
 <i class="fa-brands fa-discord"></i> [Discord](discordapp.com/users/810902904071651428)
 <i class="fa-brands fa-instagram"></i> [Instagram](https://www.instagram.com/godtim_hsieh?igsh=MWI3NGo3ZDJldHM5YQ%3D%3D&utm_source=qr)
 
-<br clear="all">
-<hr class="solid">
-<!-- END -->
+{% include divider.html %}
 
 
 #### [Rex Wang](/personal_page/rex_wang)
@@ -100,8 +95,7 @@ Ruei-Ting is a senior student at National Taiwan University. He's 23 and studyin
 
 <i class="fas fa-at"></i> [Email](mailto:rexwang1229@gmail.com)
 
-<br clear="all">
-<hr class="solid"> <!-- END -->
+{% include divider.html %}
 
 
 
@@ -115,9 +109,7 @@ Ruei-Ting is a senior student at National Taiwan University. He's 23 and studyin
 
 <i class="fas fa-at"></i> [Email](mailto:b11601013@ntu.edu.tw)  
 
-<br clear="all">
-<hr class="solid">
-<!-- END -->
+{% include divider.html %}
 
 
 #### [Jonathan Liew](/personal_page/jonathan_liew.md)
@@ -128,9 +120,7 @@ Undergraduate student in the Department of Agronomy, National Taiwan University.
 
 <i class="fas fa-at"></i> [Email](mailto:b11601014@ntu.edu.tw)  
 
-<br clear="all">
-<hr class="solid">
-<!-- END -->
+{% include divider.html %}
 
 
 
