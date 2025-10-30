@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Rex Wang
 
-<img src="{{site.url}}/img/Rex_Wang.jpg" align="left" hspace="10" width="25%">
+<img src="{{site.url}}/img/rex_wang.jpg" align="left" hspace="10" width="25%">
 Rex is currently a first-year master's student in the Division of Biometry. He graduated from National Chengchi University with a degree in Statistics. Right now, he's mainly working on projects related to pest control and pest prediction. During his first semester of grad school, his main focus has been sharpening his programming skills and trying his best to pick up more biology knowledge, which he feels he's a bit lacking in. Outside of research, Rex enjoys playing tennis and swimming in his free time. Back when he was at Chengchi University, he was vice captain of the tennis team and helped lead the team to fifth place at the National Collegiate Championships three times.
 
 Contact:
