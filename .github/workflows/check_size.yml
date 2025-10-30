@@ -2,9 +2,9 @@ name: Check file size
 
 on:
   push:
-    branches: [ "main", "dummy" ]
+    branches: [ "main", "action-check-fille-size" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "main", "action-check-fille-size" ]
 
 jobs:
   check:
