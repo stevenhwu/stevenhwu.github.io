@@ -91,7 +91,9 @@ Ruei-Ting is a senior student at National Taiwan University. He's 23 and studyin
 
 
 #### [Rex Wang](/personal_page/rex_wang)
-<img src="{{base.url}}/img/random.jpg" alt="Name" align="left" hspace="50" width="25%">
+<img src="{{base.url}}/img/rex_wang.jpg" alt="Name" align="left" hspace="50" width="25%">
+
+Rex is currently a first-year master’s student in the Division of Biometry. He graduated from National Chengchi University with a degree in Statistics. Right now, he’s mainly working on projects related to pest control and pest prediction. During his first semester of grad school, his main focus has been sharpening his programming skills and trying his best to pick up more biology knowledge, which he feels he’s a bit lacking in. 
 
 <i class="fas fa-at"></i> [Email](mailto:rexwang1229@gmail.com)
 
