@@ -4,6 +4,9 @@ hide_footer: true
 hero_height: is-small
 ---
 
+## Xmas 2024
+
+
 ## Xmas 2023
 
 <img src="{{site.url}}/img/2023_xmas.jpg" align="left" hspace="10" height="300px">

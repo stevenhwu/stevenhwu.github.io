@@ -17,5 +17,4 @@ For more information please visit his personal website
 <i class="fas fa-link"></i>[Kent Daniel](http://kentdaniel.com/)
 <i class="fas fa-at"></i> [Email](mailto:kentdaniel18@gmail.com)
 
-<br clear="all">
-<hr class="solid">
+{% include divider.html %}

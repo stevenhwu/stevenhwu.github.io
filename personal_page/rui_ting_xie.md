@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Rui-Ting Xie
 
-<img src="{{site.url}}/img/Rui-Ting Xie.jpg" align="left" hspace="10" width="25%">
+<img src="{{site.url}}/img/rui_ting_xie.jpg" align="left" hspace="10" width="25%">
 Well, since someone actually clicked in, I'll tell you more. You can call me Tim. I'm a junior in college. Besides being a bit decent at badminton, I'm pretty much a homebody. In my free time, I hang out with friends and play League of Legends (recently, it's been Lethal Company), although lately, I don't have much free time.
 
 Contact:
@@ -23,8 +23,7 @@ Contact:
 <i class="fab fa-google"></i> [Google Scholar]()  
 -->
 
-<br clear="all">
-<hr class="solid">
+{% include divider.html %}
 
 #### Experience and Education
 

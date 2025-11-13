@@ -1,0 +1,30 @@
+name: Check file sizes
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Check for images larger than 150KB
+        run: |
+          MAX_SIZE="150k"
+          LARGE_FILES=$(find img -type f -size +$MAX_SIZE)
+          
+          if [ -n "$LARGE_FILES" ]; then
+            echo "❌ Found images larger than $MAX_SIZE:"
+            echo "$LARGE_FILES" | while read -r file; do
+              du -h "$file"
+            done
+            exit 1
+          else
+            echo "✅ All images are within $MAX_SIZE limit"
+          fi

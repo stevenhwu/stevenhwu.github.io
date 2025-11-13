@@ -11,23 +11,7 @@ show_sidebar: false
 
 <img src="{{site.url}}/img/shawn_chen.jpg" align="left" hspace="10" width="25%">
 
-A young man sits at a desk. His name is **Shawn**.
-
-He's been there a long time... way too long. Honestly, he's probably just stuck in a loop of "just one more line of code".
-
-At this point, he seems to be struggling. A faint voice can be heard offscreen:
-
-"It's all part of his research. He likes it."
-
-Maybe. Or maybe not.
-
-After a brief pause, the voice continues:
-
-"If you get close... he might offer you a drink."
-
-Careful though, you never know what he will hand you.
-
-But hey, don't worry, he’s friendly. So if you’re nearby, pull up a chair!
+Shawn is a second-year master's student. He always sits in front of the computer, seeming like the chair and keyboard have trapped him. If you see him stuck in some trouble, don’t worry; he’s doing it voluntarily.
 
 Contact:
 <i class="fas fa-at"></i> [Email](mailto:shawn.for.office@gmail.com)  
@@ -38,8 +22,7 @@ Contact:
 <i class="fab fa-google"></i> [Google Scholar]()  
 -->
 
-<br clear="all">
-<hr class="solid">
+{% include divider.html %}
 
 #### Experience and Education
 
@@ -76,20 +59,17 @@ Poster: Unveiling Ecological Dynamics off Kueishan Island through Soundscape & e
 
 #### Skills and Qualifications
 
-Programming language: Python, R, Shell, C (only a bit)
+Programming language:
+- Python, R
 
-PADI Advanced Open Water Diver: total 27 logs, 1162 mins
+Diving: 
+- PADI: Advanced Open Water Diver + Enriched Air Diver
+
+- TDI: Intro to Tech + Advanced Nitrox Diver + Decompression Procedures Diver + Deep Diver
 
 #### Experience in Field Surveys
 
-| Date              | Site                                 | Purpose                                             |
-|-------------------|--------------------------------------|-----------------------------------------------------|
-| 2025/06/07-06/08  | Chaojing, Keelung Islet              | Underwater recorder replacement                     |
-| 2025/04/17        | Capybara Rock                        | Kayak transect survey                               |
-| 2025/03/11        | Guishan Island                       | Onboard recording + underwater recorder replacement |
-| 2024/12/11        | Chaojing                             | Underwater recorder replacement                     |
-| 2024/11/30-12/02  | Guishan Island, Fulong, Chaojing     | Underwater recorder replacement                     |
-| 2024/09/13-09/19  | Green Island                         | Intertidal zone recording                           |
-| 2024/08/28        | Fulong                               | Onboard recording + underwater recorder replacement |
-| 2024/08/27        | Gongliao                             | Kayak transect survey                               |
-| 2024/02/19-02/20  | Guishan Island                       | Onboard recording                                   |
+- Underwater audio recorder replacement
+- Underwater camera visual survey
+- Kayak transect survey
+- Onboat recording

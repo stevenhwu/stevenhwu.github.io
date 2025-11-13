@@ -9,7 +9,7 @@ show_sidebar: false
 
 ## Yu-Han Wu
 
-<img src="{{site.url}}/personal_page//img/yu_han_wu.jpg" align="left" hspace="10" width="25%">
+<img src="{{site.url}}/alumni/yu_han_wu.jpg" align="left" hspace="10" width="25%">
 I am a second-year master's student. I graduated from NCYU and participated in the project on gene regulation of color in rice husks.
 Currently, I am working on projects related to image analysis.
 The programming language I usually use is python and I am learning various programming skills by myself.
@@ -25,8 +25,7 @@ Contact:
 <i class="fab fa-google"></i> [Google Scholar]()  
 -->
 
-<br clear="all">
-<hr class="solid">
+{% include divider.html %}
 
 #### Experience and Education
 
