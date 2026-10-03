@@ -68,15 +68,6 @@ hr.rounded {
 ## [Master's students](#masters-students)
 
 
-#### [Shawn Chen](/personal_page/shawn_chen)
-<img src="{{base.url}}/img/shawn_chen.jpg" alt="Shan-En Chen" align="left" hspace="50" width="25%">
-
-Shawn is a senior student. He always sits in front of the computer, seeming like the chair and keyboard have trapped him. If you see him stuck in some trouble, don't worry; he's doing it voluntarily.
-
-<i class="fas fa-at"></i> [Email](mailto:shawn.for.office@gmail.com)
-
-{% include divider.html %}
-
 
 #### [Rui-Ting Xie](/personal_page/rui_ting_xie)
 <img src="{{base.url}}/img/rui_ting_xie.jpg" alt="Name" align="right" hspace="50" width="25%">
@@ -93,7 +84,7 @@ Ruei-Ting is a senior student at National Taiwan University. He's 23 and studyin
 #### [Rex Wang](/personal_page/rex_wang)
 <img src="{{base.url}}/img/rex_wang.jpg" alt="Name" align="left" hspace="50" width="25%">
 
-Rex is currently a first-year master’s student in the Division of Biometry. He graduated from National Chengchi University with a degree in Statistics. Right now, he’s mainly working on projects related to pest control and pest prediction. During his first semester of grad school, his main focus has been sharpening his programming skills and trying his best to pick up more biology knowledge, which he feels he’s a bit lacking in. 
+Rex is currently a first-year master’s student in the Division of Biometry. He graduated from National Chengchi University with a degree in Statistics. Right now, he’s mainly working on projects related to pest control and pest prediction. During his first semester of grad school, his main focus has been sharpening his programming skills and trying his best to pick up more biology knowledge, which he feels he’s a bit lacking in.
 
 <i class="fas fa-at"></i> [Email](mailto:rexwang1229@gmail.com)
 
@@ -101,48 +92,42 @@ Rex is currently a first-year master’s student in the Division of Biometry. He
 
 
 
-<!-- Undergraduate -->
-## [Undergraduate students](#undergraduate-students)
-
 
 #### [Xiang-Lin Liu](/personal_page/xiang_lin_lu.md)
 
 <img src="{{site.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
 Xiang-Lin is a junier student at NTU. A shy newbie in this lab but willing to learn. She's now enjoying her summer internship at RBG Kew. Let's see what she will bring back from England.
 
-<i class="fas fa-at"></i> [Email](mailto:b11601013@ntu.edu.tw) 
+<i class="fas fa-at"></i> [Email](mailto:b11601013@ntu.edu.tw)
 <i class="fab fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/%E6%B9%98%E7%90%B3-%E5%91%82-b597a2244/) 
 
 {% include divider.html %}
 
 
-#### [Jonathan Liew](/personal_page/jonathan_liew.md)
-
-<img src="{{site.url}}/img/jonathan_liew.jpg" alt="Name" align="left" hspace="50" width="25%">
-
-Undergraduate student in the Department of Agronomy, National Taiwan University. Currently focusing on a pathway project that uses semi-automatic query features to extract and connect the metabolic pathways from a list of enzymes.
-
-<i class="fas fa-at"></i> [Email](mailto:b11601014@ntu.edu.tw)  
-
-{% include divider.html %}
-
 
 #### [Kuan-Yu Chen](/personal_page/kuan_yu_chen.md)
 
-<img src="{{site.url}}/img/random.jpg" alt="Name" align="right" hspace="50" width="25%">
+<img src="{{site.url}}/img/random.jpg" alt="Name" align="left" hspace="50" width="25%">
 
 <i class="fas fa-at"></i> [Email](mailto:b10601035@ntu.edu.tw)  
 
 {% include divider.html %}
 
 
+<!-- Undergraduate -->
+## [Undergraduate students](#undergraduate-students)
+
 
 
 <!-- Alumni -->
 ## Alumni<a id='#alumni'></a>
-<!-- <a href='#alumni'></a> -->
+<!-- <a href='#alumni'></a>
+
+{% include divider.html %}
+
 
 ### Masters students
+#### [Shawn Chen](/alumni/shawn_chen) - 2026
 
 #### [Szu-Ting Tan](/alumni/szu_ting_tan) - 2025
 
@@ -155,6 +140,10 @@ Undergraduate student in the Department of Agronomy, National Taiwan University.
 #### [Yi-Cheng Lin](/alumni/yi_cheng_lin) - 2022
 
 ### Undergraduate students
+
+{% include divider.html %}
+
+#### [Jonathan Liew](/alumni/jonathan_liew.md)
 
 #### [Jun-Yan Lai](/alumni/jun_yan_lai) - 2025
 
